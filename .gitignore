@@ -4,3 +4,7 @@ dist
 .next
 .env*
 .DS_Store
+
+# project data
+*.xlsx
+data/officers.json

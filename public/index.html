@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>SSC CDMX Officers</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <style>
+    body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;margin:20px;line-height:1.4}
+    input{padding:10px;width:100%;max-width:520px;border:1px solid #ccc;border-radius:8px;margin-bottom:12px}
+    .count{margin:6px 0 12px;color:#555}
+    .card{border:1px solid #e5e7eb;border-radius:12px;padding:12px;margin:8px 0}
+    .name{font-weight:600}
+    .muted{color:#666}
+  </style>
+</head>
+<body>
+  <h1>SSC CDMX Officers</h1>
+  <input id="q" placeholder="Search by name or badge…" autofocus />
+  <div class="count" id="count">Loading…</div>
+  <div id="list"></div>
+
+  <script>
+    const listEl = document.getElementById('list');
+    const countEl = document.getElementById('count');
+    const qEl = document.getElementById('q');
+
+    let data = [];
+    async function load() {
+      const res = await fetch('./officers.json');
+      data = await res.json();
+      render(data);
+    }
+
+    function render(rows) {
+      countEl.textContent = `Showing ${rows.length} of ${data.length}`;
+      listEl.innerHTML = rows.map(r => `
+        <div class="card">
+          <div class="name">${escapeHtml(r.name || '')}</div>
+          <div class="muted">Badge: ${escapeHtml(r.badge || '')}</div>
+          <div class="muted">Auth: ${escapeHtml(r.authorizationType || '')}</div>
+        </div>
+      `).join('');
+    }
+
+    function escapeHtml(s){return String(s).replace(/[&<>"']/g, m => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]))}
+
+    qEl.addEventListener('input', () => {
+      const q = qEl.value.trim().toLowerCase();
+      if (!q) return render(data);
+      const rows = data.filter(r =>
+        String(r.badge||'').toLowerCase().includes(q) ||
+        String(r.name||'').toLowerCase().includes(q)
+      );
+      render(rows);
+    });
+
+    load();
+  </script>
+</body>
+</html>
