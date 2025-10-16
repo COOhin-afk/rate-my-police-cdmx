@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/COOhin-afk/rate-my-police-cdmx/issues"
   },
-  "homepage": "https://github.com/COOhin-afk/rate-my-police-cdmx#readme"
+  "homepage": "https://github.com/COOhin-afk/rate-my-police-cdmx#readme",
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
 }

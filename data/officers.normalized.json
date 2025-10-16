@@ -1,0 +1,7023 @@
+[
+  {
+    "number": "1",
+    "badge": "1151407",
+    "name": "ABARCA CASTRO YANELI",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151407"
+  },
+  {
+    "number": "2",
+    "badge": "57196",
+    "name": "ABUNDIO SANTOS CARMEN JULIA",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "57196"
+  },
+  {
+    "number": "3",
+    "badge": "1032742",
+    "name": "ACOSTA LOPEZ ALEXIS JUAN",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1032742"
+  },
+  {
+    "number": "4",
+    "badge": "1168140",
+    "name": "ADAMES LOPEZ GUSTAVO KHALIL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1168140"
+  },
+  {
+    "number": "1",
+    "badge": "42006",
+    "name": "AGATON HERNANDEZ URIEL",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "42006"
+  },
+  {
+    "number": "5",
+    "badge": "1168133",
+    "name": "AGUILAR CARDOSO YAHIR",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1168133"
+  },
+  {
+    "number": "6",
+    "badge": "1156891",
+    "name": "AGUILAR ESPINDOLA ANTONIO DANIEL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1156891"
+  },
+  {
+    "number": "2",
+    "badge": "916144",
+    "name": "AGUILAR HERNANDEZ MARIA DEL CARMEN",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "916144"
+  },
+  {
+    "number": "7",
+    "badge": "759007",
+    "name": "AGUILAR MEDINA AGUSTIN",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "759007"
+  },
+  {
+    "number": "8",
+    "badge": "848215",
+    "name": "AGUILAR MEJIA IVAN SILVESTRE",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "848215"
+  },
+  {
+    "number": "9",
+    "badge": "1002659",
+    "name": "AGUILAR PEREZ OSCAR GEOVANNI",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1002659"
+  },
+  {
+    "number": "3",
+    "badge": "45107",
+    "name": "AGUILAR PLIEGO DANIEL",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "45107"
+  },
+  {
+    "number": "4",
+    "badge": "33069",
+    "name": "AGUIRRE BUSTOS JUAN CARLOS",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "33069"
+  },
+  {
+    "number": "5",
+    "badge": "37751",
+    "name": "AGUIRRE JIMÉNEZ ENEIDA",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "37751"
+  },
+  {
+    "number": "7",
+    "badge": "42310",
+    "name": "AGUSTIN NAZARIO JOSE LUIS",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "42310"
+  },
+  {
+    "number": "6",
+    "badge": "31480",
+    "name": "AGUSTÍN CRUZ SANTIAGO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "31480"
+  },
+  {
+    "number": "10",
+    "badge": "828176",
+    "name": "ALAMILLA MARIN JUAN GABRIEL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "828176"
+  },
+  {
+    "number": "11",
+    "badge": "24337",
+    "name": "ALAVEZ HERNANDEZ LEOPOLDO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "24337"
+  },
+  {
+    "number": "12",
+    "badge": "1168135",
+    "name": "ALAVEZ RAMIREZ ANDREA GISSELLE",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1168135"
+  },
+  {
+    "number": "8",
+    "badge": "53165",
+    "name": "ALBARRAN ROJAS ESMERALDA",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "53165"
+  },
+  {
+    "number": "9",
+    "badge": "65016",
+    "name": "ALBARRAN SANCHEZ DAVID ADAN",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "65016"
+  },
+  {
+    "number": "13",
+    "badge": "1151129",
+    "name": "ALBERTO PEREZ ROCIO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151129"
+  },
+  {
+    "number": "10",
+    "badge": "41658",
+    "name": "ALBINO VITE DANIEL",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "41658"
+  },
+  {
+    "number": "11",
+    "badge": "53685",
+    "name": "ALCAIDE GARCIA RAUL AGAD",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "53685"
+  },
+  {
+    "number": "12",
+    "badge": "56740",
+    "name": "ALCALÁ TORRES BELÉN",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "56740"
+  },
+  {
+    "number": "14",
+    "badge": "1151132",
+    "name": "ALCANTARA DIAZ BRISA ARIANA",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151132"
+  },
+  {
+    "number": "13",
+    "badge": "65017",
+    "name": "ALCARAZ MUNGUIA HECTOR IVAN",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "65017"
+  },
+  {
+    "number": "14",
+    "badge": "42803",
+    "name": "ALCIBAR UGALDE VICTOR HUGO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "42803"
+  },
+  {
+    "number": "15",
+    "badge": "931150",
+    "name": "ALDAMA MORENO CLAUDIA DANIELA",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "931150"
+  },
+  {
+    "number": "15",
+    "badge": "36465",
+    "name": "ALEJANDRO GARCIA SAMUEL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "36465"
+  },
+  {
+    "number": "16",
+    "badge": "15311",
+    "name": "ALEJANDRO SANTOS TUDERTO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "15311"
+  },
+  {
+    "number": "17",
+    "badge": "1661",
+    "name": "ALFARO RAMIREZ CANDIDO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "1661"
+  },
+  {
+    "number": "16",
+    "badge": "1168136",
+    "name": "ALFARO ROSADO MARIO OCTAVIO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1168136"
+  },
+  {
+    "number": "18",
+    "badge": "25735",
+    "name": "ALMAGUER HURTADO JUAN CARLOS",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "25735"
+  },
+  {
+    "number": "17",
+    "badge": "824641",
+    "name": "ALMARAZ CADENA CESAR",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "824641"
+  },
+  {
+    "number": "19",
+    "badge": "916149",
+    "name": "ALMEIDA GARCIA SANDRA IVETTE",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "916149"
+  },
+  {
+    "number": "20",
+    "badge": "59099",
+    "name": "ALONSO GERVACIO MARÍA DE LOS ÁNGELES",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "59099"
+  },
+  {
+    "number": "21",
+    "badge": "24291",
+    "name": "ALPIRES REYES SABINO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "24291"
+  },
+  {
+    "number": "18",
+    "badge": "1002666",
+    "name": "ALPIZAR RODRIGUEZ JOEL GENARO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1002666"
+  },
+  {
+    "number": "22",
+    "badge": "50860",
+    "name": "ALVA BIBIAN ISRAEL",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "50860"
+  },
+  {
+    "number": "19",
+    "badge": "1151135",
+    "name": "ALVA GUADARRAMA MARIA DEL CARMEN",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151135"
+  },
+  {
+    "number": "23",
+    "badge": "26509",
+    "name": "ALVARADO GONZALEZ RICARDO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "26509"
+  },
+  {
+    "number": "20",
+    "badge": "1038885",
+    "name": "ALVARADO LAZCANO RAFAEL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1038885"
+  },
+  {
+    "number": "21",
+    "badge": "931903",
+    "name": "ALVARADO NOLASCO OSCAR",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "931903"
+  },
+  {
+    "number": "22",
+    "badge": "1163089",
+    "name": "ALVARADO PALLARES DANIELA GUADALUPE",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1163089"
+  },
+  {
+    "number": "23",
+    "badge": "1127621",
+    "name": "ALVARADO VAZQUEZ ELISEO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1127621"
+  },
+  {
+    "number": "24",
+    "badge": "749767",
+    "name": "ALVARADO VELÁZQUEZ CRISTÓBAL ISRAEL",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "749767"
+  },
+  {
+    "number": "24",
+    "badge": "860398",
+    "name": "ALVARADO ZAMUDIO LUIS ANTONIO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "860398"
+  },
+  {
+    "number": "25",
+    "badge": "1126376",
+    "name": "ALVAREZ CABAÑAS JOSE ALFREDO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1126376"
+  },
+  {
+    "number": "25",
+    "badge": "16049",
+    "name": "ALVAREZ CONTRERAS MARTIN",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "16049"
+  },
+  {
+    "number": "26",
+    "badge": "870066",
+    "name": "ALVAREZ MORALES ABRAHAM",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "870066"
+  },
+  {
+    "number": "26",
+    "badge": "991256",
+    "name": "ALVAREZ NIETO ANA KAREN",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "991256"
+  },
+  {
+    "number": "27",
+    "badge": "1163091",
+    "name": "ALVAREZ PEREZ LIZBETH ANAHI",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1163091"
+  },
+  {
+    "number": "28",
+    "badge": "1031063",
+    "name": "AMADOR JIMENEZ EDUARDO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1031063"
+  },
+  {
+    "number": "29",
+    "badge": "1163097",
+    "name": "AMBROSIO CHOMPA EDITH",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1163097"
+  },
+  {
+    "number": "30",
+    "badge": "869761",
+    "name": "ANALCO VICTORINO MARBEL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "869761"
+  },
+  {
+    "number": "31",
+    "badge": "829547",
+    "name": "ANAYA ROSALES ROBERTO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "829547"
+  },
+  {
+    "number": "32",
+    "badge": "1151143",
+    "name": "ANDRADE HERNANDEZ LAURA AIDE",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151143"
+  },
+  {
+    "number": "33",
+    "badge": "882753",
+    "name": "ANDRADE MURILLO JESUS",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "882753"
+  },
+  {
+    "number": "34",
+    "badge": "991258",
+    "name": "ANDRES FERNANDEZ RODRIGO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "991258"
+  },
+  {
+    "number": "27",
+    "badge": "1127607",
+    "name": "ANTONIO RUIZ MIGUEL",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "1127607"
+  },
+  {
+    "number": "28",
+    "badge": "1937",
+    "name": "APOLONIO HERNÁNDEZ GUILLERMO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "1937"
+  },
+  {
+    "number": "35",
+    "badge": "1151406",
+    "name": "AQUINO ORTIZ LIZETH GUADALUPE",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151406"
+  },
+  {
+    "number": "29",
+    "badge": "33680",
+    "name": "AQUINO SANCHEZ AGUSTIN",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "33680"
+  },
+  {
+    "number": "36",
+    "badge": "1168145",
+    "name": "ARAUJO ARROYO AMERICA",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1168145"
+  },
+  {
+    "number": "30",
+    "badge": "848420",
+    "name": "ARAUJO HINOJOSA FELIPE",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "848420"
+  },
+  {
+    "number": "37",
+    "badge": "1151147",
+    "name": "ARECHIGA FLORES ALEJANDRO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151147"
+  },
+  {
+    "number": "38",
+    "badge": "1151155",
+    "name": "ARENAS CASTRO CRISTIAN ALEXIS",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151155"
+  },
+  {
+    "number": "39",
+    "badge": "836338",
+    "name": "ARENAS RUBALCAVA JOSUE",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "836338"
+  },
+  {
+    "number": "40",
+    "badge": "1168148",
+    "name": "ARIAS ANTONIO FELIPE ANGEL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1168148"
+  },
+  {
+    "number": "41",
+    "badge": "902063",
+    "name": "ARIZMENDI AYALA MIGUEL ANGEL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "902063"
+  },
+  {
+    "number": "42",
+    "badge": "1151163",
+    "name": "ARPIDE DURAN GIOVANA ABIGAIL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151163"
+  },
+  {
+    "number": "43",
+    "badge": "933637",
+    "name": "ARREGUIN BAUTISTA JEENIFER",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "933637"
+  },
+  {
+    "number": "44",
+    "badge": "1163147",
+    "name": "ARRIAGA GONZALEZ JOSE",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1163147"
+  },
+  {
+    "number": "45",
+    "badge": "1168154",
+    "name": "ARRIAGA PORTILLA MARIA GUADALUPE",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1168154"
+  },
+  {
+    "number": "46",
+    "badge": "915704",
+    "name": "ARROYO MARTINEZ ROBERTO AZAEL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "915704"
+  },
+  {
+    "number": "47",
+    "badge": "931942",
+    "name": "ARVIZU ARELLANO DULCE KARINA",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "931942"
+  },
+  {
+    "number": "48",
+    "badge": "1163159",
+    "name": "ARVIZU NAVARRO ALAN RAFAEL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1163159"
+  },
+  {
+    "number": "49",
+    "badge": "55887",
+    "name": "ARVIZU NAVARRO DARWIN BRANDOM",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "55887"
+  },
+  {
+    "number": "31",
+    "badge": "28271",
+    "name": "AVELINO RUIZ RIGOBERTO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "28271"
+  },
+  {
+    "number": "32",
+    "badge": "49729",
+    "name": "AVENDAÑO ROMERO MIRIAM",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "49729"
+  },
+  {
+    "number": "50",
+    "badge": "991515",
+    "name": "AVILA AVILA HUGO ALFONSO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "991515"
+  },
+  {
+    "number": "51",
+    "badge": "754969",
+    "name": "AVILA CALIXTO CARLOS",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "754969"
+  },
+  {
+    "number": "33",
+    "badge": "62159",
+    "name": "AVILES VELAZQUEZ SANDY VALERIA",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "62159"
+  },
+  {
+    "number": "52",
+    "badge": "1151174",
+    "name": "BACA CHAVARRIA JONATHAN ALEXANDER",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151174"
+  },
+  {
+    "number": "53",
+    "badge": "1151178",
+    "name": "BAHENA MENDEZ MARTIN ALEJANDRO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151178"
+  },
+  {
+    "number": "54",
+    "badge": "939795",
+    "name": "BALBUENA ALZALDE ARTURO EDGAR",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "939795"
+  },
+  {
+    "number": "55",
+    "badge": "1151179",
+    "name": "BALDERAS BARRADAS MICHELLE",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151179"
+  },
+  {
+    "number": "57",
+    "badge": "869722",
+    "name": "BARBA HERNANDEZ JOSE ANGEL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "869722"
+  },
+  {
+    "number": "35",
+    "badge": "43367",
+    "name": "BARBOSA RODRIGUEZ DANIA",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "43367"
+  },
+  {
+    "number": "58",
+    "badge": "754972",
+    "name": "BARON JIMENEZ LUIS",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "754972"
+  },
+  {
+    "number": "36",
+    "badge": "52384",
+    "name": "BARRAGAN FLORES MIGUEL ANGEL",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "52384"
+  },
+  {
+    "number": "59",
+    "badge": "1168349",
+    "name": "BARRERA GALICIA GILBERTO ANTONIO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1168349"
+  },
+  {
+    "number": "60",
+    "badge": "1163173",
+    "name": "BARRERA MUÑIZ JESSICA JAZMIN",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1163173"
+  },
+  {
+    "number": "61",
+    "badge": "1156169",
+    "name": "BARRERA REYES DAVID",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1156169"
+  },
+  {
+    "number": "62",
+    "badge": "918835",
+    "name": "BARRIOS CRUZ JOSE FELIX",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "918835"
+  },
+  {
+    "number": "63",
+    "badge": "1163178",
+    "name": "BARRON CASTRO MARIO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1163178"
+  },
+  {
+    "number": "64",
+    "badge": "1126402",
+    "name": "BARRON GRAJEDA LUIS ANGEL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1126402"
+  },
+  {
+    "number": "65",
+    "badge": "905001",
+    "name": "BARRUETA CERVANTES RAUL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "905001"
+  },
+  {
+    "number": "37",
+    "badge": "848434",
+    "name": "BARRÓN PIZANO MARCO ANTONIO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "848434"
+  },
+  {
+    "number": "66",
+    "badge": "1151183",
+    "name": "BAUTISTA BARCENAS KARLA IBETH",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151183"
+  },
+  {
+    "number": "38",
+    "badge": "22594",
+    "name": "BAUTISTA BAUTISTA MARIBEL",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "22594"
+  },
+  {
+    "number": "67",
+    "badge": "1163184",
+    "name": "BAUTISTA DONALDO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1163184"
+  },
+  {
+    "number": "39",
+    "badge": "37818",
+    "name": "BAUTISTA HERNANDEZ ALEJANDRO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "37818"
+  },
+  {
+    "number": "40",
+    "badge": "42056",
+    "name": "BAUTISTA HERNANDEZ CRESCENCIO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "42056"
+  },
+  {
+    "number": "41",
+    "badge": "2394",
+    "name": "BAUTISTA MARTINEZ ABEL",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "2394"
+  },
+  {
+    "number": "42",
+    "badge": "38300",
+    "name": "BAUTISTA MARTÍNEZ ÁLVARO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "38300"
+  },
+  {
+    "number": "68",
+    "badge": "909899",
+    "name": "BAUTISTA MUÑOZ OMAR",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "909899"
+  },
+  {
+    "number": "69",
+    "badge": "918838",
+    "name": "BAUTISTA NORMANDIA JOSE ALBERTO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "918838"
+  },
+  {
+    "number": "70",
+    "badge": "1135816",
+    "name": "BAUTISTA NORMANDIA ULISES",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1135816"
+  },
+  {
+    "number": "71",
+    "badge": "918839",
+    "name": "BAUTISTA RIVERA JOVANNY",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "918839"
+  },
+  {
+    "number": "72",
+    "badge": "1135819",
+    "name": "BAUTISTA VICENTE DANIA ITZEL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1135819"
+  },
+  {
+    "number": "34",
+    "badge": "43045",
+    "name": "BAÑOS MELO ENEDINO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "43045"
+  },
+  {
+    "number": "56",
+    "badge": "991518",
+    "name": "BAÑUELOS PADILLA JORGE DAYAN",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "991518"
+  },
+  {
+    "number": "43",
+    "badge": "35375",
+    "name": "BELLO REYES ANGELIO CESAR",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "35375"
+  },
+  {
+    "number": "73",
+    "badge": "1126427",
+    "name": "BELTRAN PEREZ LUIS FERNANDO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1126427"
+  },
+  {
+    "number": "74",
+    "badge": "59872",
+    "name": "BENEGAS PERALTA GERARDO IVAN",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "59872"
+  },
+  {
+    "number": "44",
+    "badge": "34963",
+    "name": "BERNABÉ MARTÍNEZ GUSTAVO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "34963"
+  },
+  {
+    "number": "45",
+    "badge": "39807",
+    "name": "BLAS FUENTES MIGUEL ANGEL",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "39807"
+  },
+  {
+    "number": "75",
+    "badge": "871091",
+    "name": "BOIX VALTIERRA MAGDA CAROLINA",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "871091"
+  },
+  {
+    "number": "76",
+    "badge": "917156",
+    "name": "BOLAÑOS BALANZAR ELIO ALAN",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "917156"
+  },
+  {
+    "number": "77",
+    "badge": "1163083",
+    "name": "BOLAÑOS QUIJADA IAN",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1163083"
+  },
+  {
+    "number": "46",
+    "badge": "869777",
+    "name": "BOTELLO CHAVEZ GILBERTO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "869777"
+  },
+  {
+    "number": "47",
+    "badge": "13270",
+    "name": "BRISEÑO CANUTO FRANCISCO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "13270"
+  },
+  {
+    "number": "78",
+    "badge": "1151188",
+    "name": "BUSTAMANTE CALIXTO EDUARDO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151188"
+  },
+  {
+    "number": "79",
+    "badge": "1151191",
+    "name": "CABALLERO GARCIA NOEMI",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151191"
+  },
+  {
+    "number": "48",
+    "badge": "40759",
+    "name": "CABALLERO RODRIGUEZ ALBERTO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "40759"
+  },
+  {
+    "number": "80",
+    "badge": "1163094",
+    "name": "CABELLO OCHOA NOHEMA",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1163094"
+  },
+  {
+    "number": "49",
+    "badge": "41253",
+    "name": "CABRERA MENDEZ REYNALDO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "41253"
+  },
+  {
+    "number": "50",
+    "badge": "49532",
+    "name": "CADENA MARTINEZ JOSUE ISMAEL",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "49532"
+  },
+  {
+    "number": "81",
+    "badge": "863893",
+    "name": "CALIXTO SANCHEZ FRANCISCO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "863893"
+  },
+  {
+    "number": "82",
+    "badge": "1168172",
+    "name": "CALLADO CASTRO JUAN ARTURO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1168172"
+  },
+  {
+    "number": "83",
+    "badge": "1126416",
+    "name": "CAMARILLO LOPEZ ARLEN PIEDAD",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1126416"
+  },
+  {
+    "number": "84",
+    "badge": "1151200",
+    "name": "CANALES CASTILLO OMAR",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151200"
+  },
+  {
+    "number": "51",
+    "badge": "21528",
+    "name": "CANO CRUZ OMAR",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "21528"
+  },
+  {
+    "number": "85",
+    "badge": "927035",
+    "name": "CARAPIA SECUNDINO ARIANA",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "927035"
+  },
+  {
+    "number": "86",
+    "badge": "1126442",
+    "name": "CARBAJAL BADILLO SHARON MISHELL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1126442"
+  },
+  {
+    "number": "52",
+    "badge": "48254",
+    "name": "CARBAJAL FRIAS ALAN SAMIR",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "48254"
+  },
+  {
+    "number": "87",
+    "badge": "749685",
+    "name": "CARDENAS CORONA SERGIO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "749685"
+  },
+  {
+    "number": "53",
+    "badge": "65318",
+    "name": "CARDENAS SANDOVAL JOSE DE JESUS",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "65318"
+  },
+  {
+    "number": "54",
+    "badge": "31453",
+    "name": "CARDOSO CUESTA PEDRO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "31453"
+  },
+  {
+    "number": "88",
+    "badge": "1163119",
+    "name": "CARMONA CASTILLO KAREN STEFANY",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1163119"
+  },
+  {
+    "number": "89",
+    "badge": "1168189",
+    "name": "CARMONA HERNANDEZ MONTCERRATH",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1168189"
+  },
+  {
+    "number": "90",
+    "badge": "1168187",
+    "name": "CARMONA RODRIGUEZ LESLIE PAOLA",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1168187"
+  },
+  {
+    "number": "55",
+    "badge": "15098",
+    "name": "CARMONA YAÑEZ JOSE EDUARDO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "15098"
+  },
+  {
+    "number": "91",
+    "badge": "1151215",
+    "name": "CARRILLO ANTONIO ISRAEL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151215"
+  },
+  {
+    "number": "56",
+    "badge": "48089",
+    "name": "CASTAÑEDA CHAVARRIA SAUL",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "48089"
+  },
+  {
+    "number": "92",
+    "badge": "1020805",
+    "name": "CASTAÑEDA GUTIERREZ ANAYENTZI",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1020805"
+  },
+  {
+    "number": "93",
+    "badge": "918850",
+    "name": "CASTAÑEDA MARTINEZ GERARDO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "918850"
+  },
+  {
+    "number": "94",
+    "badge": "1168192",
+    "name": "CASTELLANOS ROSALES CESAR IYARI",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1168192"
+  },
+  {
+    "number": "95",
+    "badge": "1151221",
+    "name": "CASTILLO HERNANDEZ LIZBETH KAREN",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151221"
+  },
+  {
+    "number": "57",
+    "badge": "44357",
+    "name": "CASTILLO MENDOZA ERICK USIEL",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "44357"
+  },
+  {
+    "number": "96",
+    "badge": "1090430",
+    "name": "CASTILLO PARTIDA ANDREA",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1090430"
+  },
+  {
+    "number": "58",
+    "badge": "57025",
+    "name": "CASTILLO ROMERO ALEJANDRA JOVANA",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "57025"
+  },
+  {
+    "number": "97",
+    "badge": "1151226",
+    "name": "CASTRO BAUTISTA FERNANDO MIGUEL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151226"
+  },
+  {
+    "number": "98",
+    "badge": "1135843",
+    "name": "CASTRO ESCARCEGA DULCE YANEL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1135843"
+  },
+  {
+    "number": "99",
+    "badge": "990642",
+    "name": "CASTRO GARCIA CELESTE JUDITH",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "990642"
+  },
+  {
+    "number": "100",
+    "badge": "1151229",
+    "name": "CASTRO SALGADO JAVIER",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151229"
+  },
+  {
+    "number": "59",
+    "badge": "829434",
+    "name": "CASTRO ZAVALA MAXIMILIANO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "829434"
+  },
+  {
+    "number": "101",
+    "badge": "850165",
+    "name": "CELSO JUAN DE DIOS RAUL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "850165"
+  },
+  {
+    "number": "102",
+    "badge": "1163152",
+    "name": "CERDA VALLEJO ABIGAIL DE JESUS",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1163152"
+  },
+  {
+    "number": "103",
+    "badge": "61627",
+    "name": "CEREZO CASTRO BRENSI PILAR",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "61627"
+  },
+  {
+    "number": "63",
+    "badge": "32725",
+    "name": "CERON ROSAS GILBERTO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "32725"
+  },
+  {
+    "number": "64",
+    "badge": "41778",
+    "name": "CERVANTES GONZÁLEZ JUAN MANUEL",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "41778"
+  },
+  {
+    "number": "104",
+    "badge": "1151235",
+    "name": "CERVANTES HERNANDEZ DAYANA",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151235"
+  },
+  {
+    "number": "105",
+    "badge": "916182",
+    "name": "CERVANTES MONTES DE OCA BRENDA",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "916182"
+  },
+  {
+    "number": "106",
+    "badge": "1151131",
+    "name": "CERVANTES RAMIREZ FERNANDO SAID",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151131"
+  },
+  {
+    "number": "107",
+    "badge": "915419",
+    "name": "CERVANTES VALLEJO JUAN ANTONIO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "915419"
+  },
+  {
+    "number": "61",
+    "badge": "848457",
+    "name": "CERÓN HERNÁNDEZ RICARDO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "848457"
+  },
+  {
+    "number": "62",
+    "badge": "869795",
+    "name": "CERÓN OJEDA VÍCTOR ABRAHAM",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "869795"
+  },
+  {
+    "number": "65",
+    "badge": "35622",
+    "name": "CHAPOL FISCAL MIGUEL ANGEL",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "35622"
+  },
+  {
+    "number": "66",
+    "badge": "20442",
+    "name": "CHARGOY GARCIA GABRIEL",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "20442"
+  },
+  {
+    "number": "108",
+    "badge": "990651",
+    "name": "CHAVARO RANGEL JOSE MIGUEL ADRIAN",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "990651"
+  },
+  {
+    "number": "67",
+    "badge": "16566",
+    "name": "CHAVEZ CRUZ ELOY",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "16566"
+  },
+  {
+    "number": "109",
+    "badge": "1163160",
+    "name": "CHAVEZ GARDUÑO LUIS ANGEL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1163160"
+  },
+  {
+    "number": "110",
+    "badge": "808091",
+    "name": "CHAVEZ GORIBAR JESUS RICARDO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "808091"
+  },
+  {
+    "number": "111",
+    "badge": "1151137",
+    "name": "CHAVEZ MUÑOZ KEVIN",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151137"
+  },
+  {
+    "number": "68",
+    "badge": "34605",
+    "name": "CHINO PLUMA JOSE FRANCISCO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "34605"
+  },
+  {
+    "number": "112",
+    "badge": "1151141",
+    "name": "CHOLICO DE LA CRUZ EDUARDO DANIEL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151141"
+  },
+  {
+    "number": "113",
+    "badge": "876020",
+    "name": "CHONG MUÑOZ ERICK ARTURO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "876020"
+  },
+  {
+    "number": "114",
+    "badge": "755322",
+    "name": "CHORA ALCANTARA DAVID",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "755322"
+  },
+  {
+    "number": "115",
+    "badge": "866430",
+    "name": "CID BARRANCO JUAN MANUEL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "866430"
+  },
+  {
+    "number": "69",
+    "badge": "39494",
+    "name": "CIPRIANO RENDÓN IVÁN",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "39494"
+  },
+  {
+    "number": "70",
+    "badge": "3286",
+    "name": "CLAVEL MARICHE AMADORA",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "3286"
+  },
+  {
+    "number": "116",
+    "badge": "971441",
+    "name": "CLAVERIA FLORES JOSE AARON",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "971441"
+  },
+  {
+    "number": "117",
+    "badge": "1163165",
+    "name": "COLIN APARICIO GUSTAVO ANGEL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1163165"
+  },
+  {
+    "number": "118",
+    "badge": "934849",
+    "name": "COLIN VICTORIA JESSICA",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "934849"
+  },
+  {
+    "number": "71",
+    "badge": "16774",
+    "name": "COLORADO LANDA FERNANDO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "16774"
+  },
+  {
+    "number": "72",
+    "badge": "38132",
+    "name": "CONTRERAS CARRANZA ELSA MARGARITA",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "38132"
+  },
+  {
+    "number": "73",
+    "badge": "23917",
+    "name": "CONTRERAS GÁRCIA JAVIER",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "23917"
+  },
+  {
+    "number": "74",
+    "badge": "848303",
+    "name": "CONTRERAS HERNÁNDEZ JULIO CESAR",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "848303"
+  },
+  {
+    "number": "75",
+    "badge": "25024",
+    "name": "CONTRERAS PÉREZ SERGIO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "25024"
+  },
+  {
+    "number": "119",
+    "badge": "905056",
+    "name": "CORDERO SIERRA YOSEP",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "905056"
+  },
+  {
+    "number": "120",
+    "badge": "1151159",
+    "name": "CORONA BUENDIA ALEJANDRO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151159"
+  },
+  {
+    "number": "121",
+    "badge": "1168343",
+    "name": "CORTES AGUILAR YANETH",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1168343"
+  },
+  {
+    "number": "76",
+    "badge": "30429",
+    "name": "CORTES CASTRO JOSE LUIS",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "30429"
+  },
+  {
+    "number": "77",
+    "badge": "3412",
+    "name": "CORTES GARCIA DOMINGO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "3412"
+  },
+  {
+    "number": "78",
+    "badge": "27382",
+    "name": "CORTES GONZALEZ MIGUEL ANGEL",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "27382"
+  },
+  {
+    "number": "79",
+    "badge": "705448",
+    "name": "CORTES HERAS MARGARITA",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "705448"
+  },
+  {
+    "number": "80",
+    "badge": "30665",
+    "name": "CORTES TAMAYO OLAF CELERINO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "30665"
+  },
+  {
+    "number": "81",
+    "badge": "880955",
+    "name": "CORTEZ ARIZMENDI DEISY YURIDIA",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "880955"
+  },
+  {
+    "number": "122",
+    "badge": "916184",
+    "name": "CORTEZ GARRIDO CESAR",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "916184"
+  },
+  {
+    "number": "123",
+    "badge": "1127634",
+    "name": "CORTEZ ORTIZ KEVIN",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1127634"
+  },
+  {
+    "number": "124",
+    "badge": "939903",
+    "name": "CRISTOBAL REYES SILVINO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "939903"
+  },
+  {
+    "number": "125",
+    "badge": "1163198",
+    "name": "CRUZ BLAS HUGO ARMANDO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1163198"
+  },
+  {
+    "number": "82",
+    "badge": "32371",
+    "name": "CRUZ CRUZ ABEL",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "32371"
+  },
+  {
+    "number": "83",
+    "badge": "24981",
+    "name": "CRUZ DEL ANGEL ADELFO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "24981"
+  },
+  {
+    "number": "84",
+    "badge": "42660",
+    "name": "CRUZ DELGADILLO JOSE ANTONIO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "42660"
+  },
+  {
+    "number": "126",
+    "badge": "1029353",
+    "name": "CRUZ GACHUZO RAUL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1029353"
+  },
+  {
+    "number": "85",
+    "badge": "848232",
+    "name": "CRUZ GIRÓN ISRAEL CARLOS",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "848232"
+  },
+  {
+    "number": "127",
+    "badge": "1163208",
+    "name": "CRUZ GONZALEZ ARMANDO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1163208"
+  },
+  {
+    "number": "128",
+    "badge": "918866",
+    "name": "CRUZ GONZALEZ KARINA",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "918866"
+  },
+  {
+    "number": "86",
+    "badge": "15140",
+    "name": "CRUZ HERNANDEZ RAFAEL",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "15140"
+  },
+  {
+    "number": "87",
+    "badge": "30746",
+    "name": "CRUZ JUAREZ CESAR",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "30746"
+  },
+  {
+    "number": "88",
+    "badge": "31568",
+    "name": "CRUZ LUSTRES JUAN ANTONIO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "31568"
+  },
+  {
+    "number": "90",
+    "badge": "29376",
+    "name": "CRUZ MARTINEZ SIMON",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "29376"
+  },
+  {
+    "number": "89",
+    "badge": "19465",
+    "name": "CRUZ MARTÍNEZ PATROCINIO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "19465"
+  },
+  {
+    "number": "91",
+    "badge": "28977",
+    "name": "CRUZ NAJERA PORFIRIO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "28977"
+  },
+  {
+    "number": "92",
+    "badge": "49910",
+    "name": "CRUZ PATIÑO DONOVAN ALBERTO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "49910"
+  },
+  {
+    "number": "93",
+    "badge": "27544",
+    "name": "CRUZ PIMENTEL JUAN",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "27544"
+  },
+  {
+    "number": "95",
+    "badge": "38972",
+    "name": "CRUZ RAMOS MARGARITO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "38972"
+  },
+  {
+    "number": "94",
+    "badge": "850946",
+    "name": "CRUZ RAMÍREZ ANA ROSA",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "850946"
+  },
+  {
+    "number": "129",
+    "badge": "17004",
+    "name": "CRUZ ROLDAN MANUEL MOISES",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "17004"
+  },
+  {
+    "number": "130",
+    "badge": "1090331",
+    "name": "CRUZ ROMERO ARACELI",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1090331"
+  },
+  {
+    "number": "131",
+    "badge": "51890",
+    "name": "CRUZ TREJO DAVID",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "51890"
+  },
+  {
+    "number": "132",
+    "badge": "990683",
+    "name": "CRUZ TREJO ROGELIO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "990683"
+  },
+  {
+    "number": "133",
+    "badge": "1007357",
+    "name": "CRUZ VELAZQUEZ ALBERTO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1007357"
+  },
+  {
+    "number": "134",
+    "badge": "909917",
+    "name": "CRUZ ZELENY DULCE SARAHI",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "909917"
+  },
+  {
+    "number": "96",
+    "badge": "66287",
+    "name": "CUADRAS LOPEZ JOSE CARLOS",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "66287"
+  },
+  {
+    "number": "97",
+    "badge": "65315",
+    "name": "CUADRAS LOPEZ JOSE LUIS",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "65315"
+  },
+  {
+    "number": "98",
+    "badge": "40593",
+    "name": "CUADROS DE GANTE MARIBEL",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "40593"
+  },
+  {
+    "number": "135",
+    "badge": "1105362",
+    "name": "CUEVAS JIMENEZ DIANE",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1105362"
+  },
+  {
+    "number": "136",
+    "badge": "1163241",
+    "name": "CUEVAS MARTINEZ IRAD ABISAI",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1163241"
+  },
+  {
+    "number": "60",
+    "badge": "58965",
+    "name": "CÉRON HERNÁNDEZ MARTHA PATRICIA",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "58965"
+  },
+  {
+    "number": "137",
+    "badge": "1151198",
+    "name": "DAMIAN MEZA DIANA GABRIELA",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151198"
+  },
+  {
+    "number": "99",
+    "badge": "49121",
+    "name": "DAZA GONZALEZ JOSE LUIS",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "49121"
+  },
+  {
+    "number": "138",
+    "badge": "1168347",
+    "name": "DE JESUS AGUILAR SHADIA JOQUEVET",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1168347"
+  },
+  {
+    "number": "100",
+    "badge": "56554",
+    "name": "DE JESUS GARCIA MARIA TERESA",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "56554"
+  },
+  {
+    "number": "101",
+    "badge": "13658",
+    "name": "DE JESUS VELAZQUEZ PEDRO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "13658"
+  },
+  {
+    "number": "102",
+    "badge": "42021",
+    "name": "DE LA CRUZ CARMEN FERNANDO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "42021"
+  },
+  {
+    "number": "103",
+    "badge": "27572",
+    "name": "DE LA CRUZ CRUZ ESTEBAN",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "27572"
+  },
+  {
+    "number": "104",
+    "badge": "3806",
+    "name": "DE LA CRUZ CRUZ NORBERTO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "3806"
+  },
+  {
+    "number": "105",
+    "badge": "1127619",
+    "name": "DE LA CRUZ CRUZ RUBI ESMERALDA",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "1127619"
+  },
+  {
+    "number": "139",
+    "badge": "1125291",
+    "name": "DE LA CRUZ DELGADILLO MARTHA SARAI",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1125291"
+  },
+  {
+    "number": "140",
+    "badge": "3819",
+    "name": "DE LA CRUZ GOMEZ GABRIEL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "3819"
+  },
+  {
+    "number": "141",
+    "badge": "1126480",
+    "name": "DE LA CRUZ HERNANDEZ ALBINO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1126480"
+  },
+  {
+    "number": "106",
+    "badge": "46739",
+    "name": "DE LA CRUZ HERNANDEZ JORGE",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "46739"
+  },
+  {
+    "number": "107",
+    "badge": "28562",
+    "name": "DE LA CRUZ MARTINEZ GREGORIO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "28562"
+  },
+  {
+    "number": "142",
+    "badge": "1151223",
+    "name": "DE LA CRUZ SANCHEZ FELIPE DE JESUS",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151223"
+  },
+  {
+    "number": "143",
+    "badge": "1168348",
+    "name": "DE LA ROSA VALDEZ BRENDA SARAI",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1168348"
+  },
+  {
+    "number": "144",
+    "badge": "1126492",
+    "name": "DE LUCAS AVILA IVAN GUADALUPE",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1126492"
+  },
+  {
+    "number": "108",
+    "badge": "30077",
+    "name": "DEHESA MARQUEZ FERNANDO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "30077"
+  },
+  {
+    "number": "109",
+    "badge": "35054",
+    "name": "DEL ANGEL ALVARADO ENEDINO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "35054"
+  },
+  {
+    "number": "145",
+    "badge": "1168356",
+    "name": "DEL ANGEL VALLADARES KARLA CRISTINA",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1168356"
+  },
+  {
+    "number": "110",
+    "badge": "62104",
+    "name": "DEL RIO VILLEDA ALEJANDRO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "62104"
+  },
+  {
+    "number": "146",
+    "badge": "1108208",
+    "name": "DEL VALLE GUZMAN LILIBETH",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1108208"
+  },
+  {
+    "number": "147",
+    "badge": "1156099",
+    "name": "DELGADILLO GODINEZ JAZMIN GUADALUPE",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1156099"
+  },
+  {
+    "number": "111",
+    "badge": "54172",
+    "name": "DELGADO CASTILLO MARÍA DEL ROCIÓ",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "54172"
+  },
+  {
+    "number": "112",
+    "badge": "910404",
+    "name": "DELGADO ENCIZO JONATHAN ADRIÁN",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "910404"
+  },
+  {
+    "number": "113",
+    "badge": "27133",
+    "name": "DELGADO RAMIREZ ARTURO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "27133"
+  },
+  {
+    "number": "114",
+    "badge": "43247",
+    "name": "DIAZ AMARO JOSE EDUARDO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "43247"
+  },
+  {
+    "number": "115",
+    "badge": "57621",
+    "name": "DIAZ CASTELLANOS GABRIEL",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "57621"
+  },
+  {
+    "number": "148",
+    "badge": "918876",
+    "name": "DIAZ DE LUNA JOSE",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "918876"
+  },
+  {
+    "number": "116",
+    "badge": "50723",
+    "name": "DIAZ ESPARZA VIANEY",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "50723"
+  },
+  {
+    "number": "117",
+    "badge": "45922",
+    "name": "DIAZ ESPINOSA OSCAR",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "45922"
+  },
+  {
+    "number": "149",
+    "badge": "824307",
+    "name": "DIAZ MEJIA JORGE MARIO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "824307"
+  },
+  {
+    "number": "119",
+    "badge": "36103",
+    "name": "DIMAS DE JESUS PLUDEMO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "36103"
+  },
+  {
+    "number": "150",
+    "badge": "1126505",
+    "name": "DIONICIO HERRERA JOANA",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1126505"
+  },
+  {
+    "number": "151",
+    "badge": "991302",
+    "name": "DOMINGUEZ CRISANTES EDWIN DANIEL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "991302"
+  },
+  {
+    "number": "152",
+    "badge": "927085",
+    "name": "DOMINGUEZ FLORENCIO NANCY",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "927085"
+  },
+  {
+    "number": "120",
+    "badge": "39178",
+    "name": "DOMINGUEZ GARCIA RAFAEL",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "39178"
+  },
+  {
+    "number": "121",
+    "badge": "38962",
+    "name": "DOMINGUEZ HERNANDEZ GABRIEL",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "38962"
+  },
+  {
+    "number": "153",
+    "badge": "1151279",
+    "name": "DOMINGUEZ REYES DULCE ALEJANDRA",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151279"
+  },
+  {
+    "number": "122",
+    "badge": "755334",
+    "name": "DORANTES CHOPIN JOSE ALBERTO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "755334"
+  },
+  {
+    "number": "123",
+    "badge": "848497",
+    "name": "DORANTES DIAZ ALEJANDRO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "848497"
+  },
+  {
+    "number": "124",
+    "badge": "16117",
+    "name": "DOROTEO HERNANDEZ JULIO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "16117"
+  },
+  {
+    "number": "118",
+    "badge": "40968",
+    "name": "DÍAZ LEÓN ANDRÉS SAÚL",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "40968"
+  },
+  {
+    "number": "154",
+    "badge": "882814",
+    "name": "ECHEVERRIA CAMPOS MARCO POLO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "882814"
+  },
+  {
+    "number": "155",
+    "badge": "1168375",
+    "name": "ENCISO MALVAEZ JESUS ALEJANDRO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1168375"
+  },
+  {
+    "number": "125",
+    "badge": "928923",
+    "name": "ENRÍQUEZ ROMERO DANIEL ADRIÁN",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "928923"
+  },
+  {
+    "number": "126",
+    "badge": "29219",
+    "name": "EPIGMENIO HERNANDEZ MARCELO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "29219"
+  },
+  {
+    "number": "127",
+    "badge": "32799",
+    "name": "ESCAMILLA AVIÑA JUAN CARLOS",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "32799"
+  },
+  {
+    "number": "128",
+    "badge": "39580",
+    "name": "ESCOBEDO MEDINA JOAQUIN",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "39580"
+  },
+  {
+    "number": "129",
+    "badge": "28427",
+    "name": "ESPAÑOL CONTRERAS ANDRES",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "28427"
+  },
+  {
+    "number": "130",
+    "badge": "1127647",
+    "name": "ESPINOSA MIRANDA ANA LAURA",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "1127647"
+  },
+  {
+    "number": "156",
+    "badge": "984687",
+    "name": "ESPINOZA BALDERAS JOSE ANTONIO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "984687"
+  },
+  {
+    "number": "131",
+    "badge": "47869",
+    "name": "ESPINOZA OSTOA LUIS",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "47869"
+  },
+  {
+    "number": "157",
+    "badge": "882843",
+    "name": "ESPINOZA SANCHEZ ANGEL ISRAEL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "882843"
+  },
+  {
+    "number": "158",
+    "badge": "1020784",
+    "name": "ESQUIVEL MARTINEZ EDWIN FERNANDO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1020784"
+  },
+  {
+    "number": "159",
+    "badge": "850787",
+    "name": "ESTRADA AGUIRRE GILBERTO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "850787"
+  },
+  {
+    "number": "160",
+    "badge": "869843",
+    "name": "ESTRADA CELIS BENITO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "869843"
+  },
+  {
+    "number": "132",
+    "badge": "58361",
+    "name": "ESTRADA GRANADOS ISRAEL",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "58361"
+  },
+  {
+    "number": "133",
+    "badge": "54360",
+    "name": "ESTRADA JASSO JOSE ADRIAN",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "54360"
+  },
+  {
+    "number": "161",
+    "badge": "836392",
+    "name": "ESTRADA LOPEZ ISMAEL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "836392"
+  },
+  {
+    "number": "162",
+    "badge": "1168390",
+    "name": "ESTRADA MARTINEZ ILSE MARIAM",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1168390"
+  },
+  {
+    "number": "134",
+    "badge": "59368",
+    "name": "FABILA RAMOS VIVIANA JAZMIN",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "59368"
+  },
+  {
+    "number": "163",
+    "badge": "1163233",
+    "name": "FALCON ESPARZA BRENDA",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1163233"
+  },
+  {
+    "number": "164",
+    "badge": "991327",
+    "name": "FERIA PEREZ BERNARDINO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "991327"
+  },
+  {
+    "number": "135",
+    "badge": "22957",
+    "name": "FERNANDEZ CRUZ JESUS",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "22957"
+  },
+  {
+    "number": "136",
+    "badge": "905120",
+    "name": "FERNÁNDEZ POBLANO BELEM",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "905120"
+  },
+  {
+    "number": "165",
+    "badge": "939914",
+    "name": "FERREIRA ALANIZ GEOVANNY",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "939914"
+  },
+  {
+    "number": "137",
+    "badge": "53362",
+    "name": "FERRUZCA MORENO FELIPE",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "53362"
+  },
+  {
+    "number": "166",
+    "badge": "1022110",
+    "name": "FIDEL JUSTO YESSICA",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1022110"
+  },
+  {
+    "number": "138",
+    "badge": "30044",
+    "name": "FIDENCIO SOLARES EDGAR",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "30044"
+  },
+  {
+    "number": "167",
+    "badge": "1168404",
+    "name": "FIGUEROA HERNANDEZ JOSE PABLO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1168404"
+  },
+  {
+    "number": "139",
+    "badge": "42668",
+    "name": "FLORES BAUTISTA MARGARITO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "42668"
+  },
+  {
+    "number": "140",
+    "badge": "39287",
+    "name": "FLORES DELGADO JORGE ALBERTO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "39287"
+  },
+  {
+    "number": "141",
+    "badge": "37392",
+    "name": "FLORES GOMEZ GUSTAVO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "37392"
+  },
+  {
+    "number": "142",
+    "badge": "61991",
+    "name": "FLORES HASSAN SANDRA ALICIA",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "61991"
+  },
+  {
+    "number": "168",
+    "badge": "1128140",
+    "name": "FLORES HERNANDEZ OSCAR",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1128140"
+  },
+  {
+    "number": "169",
+    "badge": "1156153",
+    "name": "FLORES MANDUJANO LEONARDO FRANCISCO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1156153"
+  },
+  {
+    "number": "143",
+    "badge": "22316",
+    "name": "FLORES MARTINEZ FLORENCIO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "22316"
+  },
+  {
+    "number": "144",
+    "badge": "45011",
+    "name": "FLORES MARTINEZ LUIS ALBERTO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "45011"
+  },
+  {
+    "number": "145",
+    "badge": "25225",
+    "name": "FLORES MARTINEZ OMAR BENITO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "25225"
+  },
+  {
+    "number": "170",
+    "badge": "1168408",
+    "name": "FLORES MERAZ ALEJANDRO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1168408"
+  },
+  {
+    "number": "171",
+    "badge": "1001099",
+    "name": "FLORES ROLDAN PEDRO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1001099"
+  },
+  {
+    "number": "146",
+    "badge": "35914",
+    "name": "FLORES SOSA GABRIELA",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "35914"
+  },
+  {
+    "number": "147",
+    "badge": "916201",
+    "name": "FLORES VERGARA EDUARDO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "916201"
+  },
+  {
+    "number": "172",
+    "badge": "16052",
+    "name": "FLORES ZAMORA HUGO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "16052"
+  },
+  {
+    "number": "148",
+    "badge": "38349",
+    "name": "FRAGOSO MÁRQUEZ CESAR GABRIEL",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "38349"
+  },
+  {
+    "number": "149",
+    "badge": "23868",
+    "name": "FRANCISCO ANGELES ANTONIO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "23868"
+  },
+  {
+    "number": "150",
+    "badge": "45407",
+    "name": "FRANCISCO HERNANDEZ ANTONIO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "45407"
+  },
+  {
+    "number": "151",
+    "badge": "4660",
+    "name": "FRANCO FLORES OSCAR",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "4660"
+  },
+  {
+    "number": "173",
+    "badge": "1168354",
+    "name": "FRANCO LOZANO ALEXIS",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1168354"
+  },
+  {
+    "number": "152",
+    "badge": "51692",
+    "name": "FRANCO SILVA MIGUEL ANGEL",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "51692"
+  },
+  {
+    "number": "174",
+    "badge": "909925",
+    "name": "FRANCO SOMERA ALONSO ERASMO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "909925"
+  },
+  {
+    "number": "175",
+    "badge": "753511",
+    "name": "FRANCO ZARATE JORGE",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "753511"
+  },
+  {
+    "number": "176",
+    "badge": "990790",
+    "name": "FRAUSTO GALICIA MARIO FRANCISCO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "990790"
+  },
+  {
+    "number": "177",
+    "badge": "1163269",
+    "name": "FRIAS MARTINEZ ERIKA GUADALUPE",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1163269"
+  },
+  {
+    "number": "153",
+    "badge": "59310",
+    "name": "FUENTES MENDOZA MIGUEL ANGEL",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "59310"
+  },
+  {
+    "number": "154",
+    "badge": "31613",
+    "name": "GABINO LAUREANO JORGE",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "31613"
+  },
+  {
+    "number": "155",
+    "badge": "41651",
+    "name": "GABINO LAUREANO MARCOS",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "41651"
+  },
+  {
+    "number": "156",
+    "badge": "49621",
+    "name": "GABRIEL GARCÍA VÍCTOR",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "49621"
+  },
+  {
+    "number": "178",
+    "badge": "1151302",
+    "name": "GALICIA ANDRADE LIZBETH LESLI",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151302"
+  },
+  {
+    "number": "179",
+    "badge": "1151371",
+    "name": "GALIOTE SOTO URIEL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151371"
+  },
+  {
+    "number": "180",
+    "badge": "1151375",
+    "name": "GALIZ RODRIGUEZ GABRIELA",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151375"
+  },
+  {
+    "number": "157",
+    "badge": "65316",
+    "name": "GALLARDO CAMARILLO ALEJANDRO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "65316"
+  },
+  {
+    "number": "181",
+    "badge": "48090",
+    "name": "GALVAN LOPEZ FRANCISCO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "48090"
+  },
+  {
+    "number": "158",
+    "badge": "850812",
+    "name": "GAMBOA PORCAYO PEDRO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "850812"
+  },
+  {
+    "number": "182",
+    "badge": "1090355",
+    "name": "GARCES PINEDA ALEJANDRA BERENICE",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1090355"
+  },
+  {
+    "number": "183",
+    "badge": "876059",
+    "name": "GARCIA ACEVEDO RICARDO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "876059"
+  },
+  {
+    "number": "184",
+    "badge": "918890",
+    "name": "GARCIA ALONSO BRENDA MARIANA",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "918890"
+  },
+  {
+    "number": "185",
+    "badge": "909929",
+    "name": "GARCIA ARRIAGA LUCIO CESAR",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "909929"
+  },
+  {
+    "number": "186",
+    "badge": "850815",
+    "name": "GARCIA CORTES FRANCISCO MARTIN",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "850815"
+  },
+  {
+    "number": "159",
+    "badge": "1031020",
+    "name": "GARCIA DE LA ROSA JOSE LUIS",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "1031020"
+  },
+  {
+    "number": "187",
+    "badge": "916209",
+    "name": "GARCIA DELGADILLO JOSE ANGEL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "916209"
+  },
+  {
+    "number": "188",
+    "badge": "36998",
+    "name": "GARCIA GARCIA JESUS FERNANDO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "36998"
+  },
+  {
+    "number": "189",
+    "badge": "1090380",
+    "name": "GARCIA HURTADO KAREN NATALY",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1090380"
+  },
+  {
+    "number": "162",
+    "badge": "16958",
+    "name": "GARCIA LOPEZ LUIS ANTONIO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "16958"
+  },
+  {
+    "number": "190",
+    "badge": "888235",
+    "name": "GARCIA LOPEZ MARCO ADAN",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "888235"
+  },
+  {
+    "number": "163",
+    "badge": "41967",
+    "name": "GARCIA LOPEZ MIGUEL",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "41967"
+  },
+  {
+    "number": "164",
+    "badge": "836905",
+    "name": "GARCIA MEDINA BIBIANA JACQUELINE",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "836905"
+  },
+  {
+    "number": "191",
+    "badge": "918897",
+    "name": "GARCIA MENDOZA ALMA ANGELICA",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "918897"
+  },
+  {
+    "number": "192",
+    "badge": "1163299",
+    "name": "GARCIA MORA CORAL ESTEFANIA",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1163299"
+  },
+  {
+    "number": "165",
+    "badge": "62926",
+    "name": "GARCIA NAZARIO JONATHAN EMANUEL",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "62926"
+  },
+  {
+    "number": "166",
+    "badge": "28878",
+    "name": "GARCIA PEREZ LUIS",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "28878"
+  },
+  {
+    "number": "193",
+    "badge": "757881",
+    "name": "GARCIA QUINTERO SALVADOR ELIAS",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "757881"
+  },
+  {
+    "number": "194",
+    "badge": "865899",
+    "name": "GARCIA SANTOS JOSE CARLOS",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "865899"
+  },
+  {
+    "number": "195",
+    "badge": "1151397",
+    "name": "GARCIA SOLIS LAURA TATIANA",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151397"
+  },
+  {
+    "number": "167",
+    "badge": "13609",
+    "name": "GARCIA VEGA JEREMIAS",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "13609"
+  },
+  {
+    "number": "160",
+    "badge": "43635",
+    "name": "GARCÍA GARCÍA CARLOS IVÁN",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "43635"
+  },
+  {
+    "number": "161",
+    "badge": "63840",
+    "name": "GARCÍA GARCÍA ISMAEL",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "63840"
+  },
+  {
+    "number": "168",
+    "badge": "44301",
+    "name": "GARDUÑO GALINDO HÉCTOR ANUAR",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "44301"
+  },
+  {
+    "number": "196",
+    "badge": "1151353",
+    "name": "GARIBAY MUÑOZ NESTOR JOAQUIN",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151353"
+  },
+  {
+    "number": "169",
+    "badge": "44491",
+    "name": "GILDARDO GONZALEZ YLEANA GUADALUPE",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "44491"
+  },
+  {
+    "number": "197",
+    "badge": "1168364",
+    "name": "GINEZ MACEDA JULIA MONTSERRAT",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1168364"
+  },
+  {
+    "number": "170",
+    "badge": "34863",
+    "name": "GODINEZ GONZALEZ AMPARO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "34863"
+  },
+  {
+    "number": "171",
+    "badge": "64574",
+    "name": "GODINEZ RODRIGUEZ JOAQUIN",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "64574"
+  },
+  {
+    "number": "198",
+    "badge": "61279",
+    "name": "GODINEZ RUIZ JOSE LUIS",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "61279"
+  },
+  {
+    "number": "172",
+    "badge": "41393",
+    "name": "GOMEZ DANIEL LUIS ANGEL",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "41393"
+  },
+  {
+    "number": "199",
+    "badge": "1103200",
+    "name": "GOMEZ ESPINOSA GEORGINA",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1103200"
+  },
+  {
+    "number": "200",
+    "badge": "926990",
+    "name": "GOMEZ GARCIA VALENTIN DE JESUS",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "926990"
+  },
+  {
+    "number": "173",
+    "badge": "38187",
+    "name": "GOMEZ HERNANDEZ SANDRO FABIAN",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "38187"
+  },
+  {
+    "number": "201",
+    "badge": "1151391",
+    "name": "GOMEZ RAFAEL ULISES ALFREDO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151391"
+  },
+  {
+    "number": "202",
+    "badge": "1036446",
+    "name": "GOMEZ REYES DAVID ARTURO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1036446"
+  },
+  {
+    "number": "203",
+    "badge": "1163062",
+    "name": "GOMEZ RUPERTO LIDIA JAZMIN",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1163062"
+  },
+  {
+    "number": "174",
+    "badge": "37606",
+    "name": "GOMEZ VALLADARES RAUL",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "37606"
+  },
+  {
+    "number": "175",
+    "badge": "46468",
+    "name": "GONZALEZ BECERRA VICTOR EDUARDO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "46468"
+  },
+  {
+    "number": "176",
+    "badge": "5452",
+    "name": "GONZALEZ CECILIO VALENTE",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "5452"
+  },
+  {
+    "number": "204",
+    "badge": "830590",
+    "name": "GONZALEZ CIELO JOEL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "830590"
+  },
+  {
+    "number": "205",
+    "badge": "1151395",
+    "name": "GONZALEZ ESQUIVEL NESTOR MICHEL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151395"
+  },
+  {
+    "number": "177",
+    "badge": "54397",
+    "name": "GONZALEZ GARCIA JOSE LUIS",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "54397"
+  },
+  {
+    "number": "179",
+    "badge": "860674",
+    "name": "GONZALEZ GOMEZ LIZBETH",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "860674"
+  },
+  {
+    "number": "180",
+    "badge": "19959",
+    "name": "GONZALEZ GONZALEZ RAFAEL",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "19959"
+  },
+  {
+    "number": "206",
+    "badge": "57342",
+    "name": "GONZALEZ GUTIERREZ BELINDA",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "57342"
+  },
+  {
+    "number": "181",
+    "badge": "42528",
+    "name": "GONZALEZ HIDALGO GERARDO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "42528"
+  },
+  {
+    "number": "182",
+    "badge": "848540",
+    "name": "GONZALEZ JIMENEZ ELIZABETH",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "848540"
+  },
+  {
+    "number": "183",
+    "badge": "15305",
+    "name": "GONZALEZ LOPEZ BENJAMIN",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "15305"
+  },
+  {
+    "number": "184",
+    "badge": "43767",
+    "name": "GONZALEZ LOPEZ JOSE",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "43767"
+  },
+  {
+    "number": "207",
+    "badge": "1163082",
+    "name": "GONZALEZ MARTINEZ ALAN",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1163082"
+  },
+  {
+    "number": "208",
+    "badge": "1007180",
+    "name": "GONZALEZ MARTINEZ BRAULIO ALFONSO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1007180"
+  },
+  {
+    "number": "209",
+    "badge": "25699",
+    "name": "GONZALEZ MORALES SALVADOR",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "25699"
+  },
+  {
+    "number": "210",
+    "badge": "1163095",
+    "name": "GONZALEZ ORTEGA ALFREDO ERNESTO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1163095"
+  },
+  {
+    "number": "185",
+    "badge": "927005",
+    "name": "GONZALEZ PEREZ MARI CRUZ",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "927005"
+  },
+  {
+    "number": "211",
+    "badge": "1125397",
+    "name": "GONZALEZ RAMOS LUIS FERNANDO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1125397"
+  },
+  {
+    "number": "212",
+    "badge": "1163110",
+    "name": "GONZALEZ RICO JULIAN YOHIRO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1163110"
+  },
+  {
+    "number": "213",
+    "badge": "1163121",
+    "name": "GONZALEZ SANCHEZ ANGELINA YARETZI",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1163121"
+  },
+  {
+    "number": "214",
+    "badge": "939731",
+    "name": "GONZALEZ SANCHEZ JAVIER",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "939731"
+  },
+  {
+    "number": "215",
+    "badge": "1168383",
+    "name": "GONZALEZ TRUJILLO CHRISTIAN AXEL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1168383"
+  },
+  {
+    "number": "216",
+    "badge": "851923",
+    "name": "GONZALEZ ZAMUDIO ADRIAN",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "851923"
+  },
+  {
+    "number": "178",
+    "badge": "19502",
+    "name": "GONZÁLEZ GARCÍA ROSENDO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "19502"
+  },
+  {
+    "number": "186",
+    "badge": "12929",
+    "name": "GORDILLO ACEITUNO ALBERTO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "12929"
+  },
+  {
+    "number": "187",
+    "badge": "58203",
+    "name": "GRACIANO DE LA CRUZ EUGENIA",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "58203"
+  },
+  {
+    "number": "188",
+    "badge": "65957",
+    "name": "GRANADOS ROMERO JESSICA ELIZABETH",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "65957"
+  },
+  {
+    "number": "217",
+    "badge": "848551",
+    "name": "GUADARRAMA CARBAJAL YAZMIN ERIKA",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "848551"
+  },
+  {
+    "number": "189",
+    "badge": "49176",
+    "name": "GUERRERO PEREZ MOISES ISAIR",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "49176"
+  },
+  {
+    "number": "218",
+    "badge": "1151405",
+    "name": "GUEVARA REYES ANA JOSELYN",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151405"
+  },
+  {
+    "number": "190",
+    "badge": "1171368",
+    "name": "GUILLEN ALZUA MAXIMILIANO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "1171368"
+  },
+  {
+    "number": "191",
+    "badge": "66290",
+    "name": "GUILLEN SANCHEZ CHRISTIAN",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "66290"
+  },
+  {
+    "number": "192",
+    "badge": "35824",
+    "name": "GUTIERREZ CAMPERO CONSEPCION",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "35824"
+  },
+  {
+    "number": "219",
+    "badge": "1151408",
+    "name": "GUTIERREZ GARCIA RODRIGO GUILLERMO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151408"
+  },
+  {
+    "number": "193",
+    "badge": "18851",
+    "name": "GUTIERREZ NAVARRO JESUS FERNANDO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "18851"
+  },
+  {
+    "number": "220",
+    "badge": "918922",
+    "name": "GUTIERREZ SALAS JHONATAN",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "918922"
+  },
+  {
+    "number": "194",
+    "badge": "52269",
+    "name": "GUTIÉRREZ NORIA MISAEL",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "52269"
+  },
+  {
+    "number": "195",
+    "badge": "18643",
+    "name": "GUTIÉRREZ VÁZQUEZ JAVIER",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "18643"
+  },
+  {
+    "number": "196",
+    "badge": "43377",
+    "name": "GUZMAN MATIAS VICTORIA",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "43377"
+  },
+  {
+    "number": "197",
+    "badge": "18431",
+    "name": "GUZMAN MORALES ALVARO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "18431"
+  },
+  {
+    "number": "198",
+    "badge": "934419",
+    "name": "GUZMÁN PALMA ARACELI",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "934419"
+  },
+  {
+    "number": "199",
+    "badge": "15287",
+    "name": "HERNANDEZ ALONSO PORFIRIO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "15287"
+  },
+  {
+    "number": "200",
+    "badge": "38860",
+    "name": "HERNANDEZ ANTONIO APOLINAR",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "38860"
+  },
+  {
+    "number": "221",
+    "badge": "988370",
+    "name": "HERNANDEZ BAUTISTA DIEGO ANTONIO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "988370"
+  },
+  {
+    "number": "201",
+    "badge": "932022",
+    "name": "HERNANDEZ BAUTISTA JOSE LUIS",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "932022"
+  },
+  {
+    "number": "202",
+    "badge": "59325",
+    "name": "HERNANDEZ BAUTISTA KARLA ESTRELLA",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "59325"
+  },
+  {
+    "number": "222",
+    "badge": "36950",
+    "name": "HERNANDEZ BLAS GERARDO IGNACIO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "36950"
+  },
+  {
+    "number": "203",
+    "badge": "33649",
+    "name": "HERNANDEZ CALVO ELVER",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "33649"
+  },
+  {
+    "number": "204",
+    "badge": "5966",
+    "name": "HERNANDEZ CASTRO ANTONIO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "5966"
+  },
+  {
+    "number": "223",
+    "badge": "934427",
+    "name": "HERNANDEZ CERON RICARDO NOE",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "934427"
+  },
+  {
+    "number": "224",
+    "badge": "1126714",
+    "name": "HERNANDEZ CONTRERAS JOSE MANUEL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1126714"
+  },
+  {
+    "number": "206",
+    "badge": "57694",
+    "name": "HERNANDEZ CONTRERAS SAUL EDWIN",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "57694"
+  },
+  {
+    "number": "207",
+    "badge": "45199",
+    "name": "HERNANDEZ DE LA CRUZ OSCAR",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "45199"
+  },
+  {
+    "number": "225",
+    "badge": "866822",
+    "name": "HERNANDEZ ESPINOZA LUIS",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "866822"
+  },
+  {
+    "number": "210",
+    "badge": "914135",
+    "name": "HERNANDEZ FRANCISCO HONORIA",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "914135"
+  },
+  {
+    "number": "226",
+    "badge": "1168410",
+    "name": "HERNANDEZ GALICIA YAEL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1168410"
+  },
+  {
+    "number": "227",
+    "badge": "1168414",
+    "name": "HERNANDEZ GUZMAN DARIO ABRAHAM",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1168414"
+  },
+  {
+    "number": "228",
+    "badge": "56119",
+    "name": "HERNANDEZ HERNANDEZ ADRIAN",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "56119"
+  },
+  {
+    "number": "212",
+    "badge": "41652",
+    "name": "HERNANDEZ HERNANDEZ CARLOS ALBERTO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "41652"
+  },
+  {
+    "number": "229",
+    "badge": "932026",
+    "name": "HERNANDEZ HERNANDEZ DENNIS ESTIVEN",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "932026"
+  },
+  {
+    "number": "230",
+    "badge": "35077",
+    "name": "HERNANDEZ HERNANDEZ ENRIQUE GILBERTO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "35077"
+  },
+  {
+    "number": "213",
+    "badge": "1003634",
+    "name": "HERNANDEZ HERNANDEZ JUAN MARTIN",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "1003634"
+  },
+  {
+    "number": "214",
+    "badge": "43350",
+    "name": "HERNANDEZ HERNANDEZ MARCO ANTONIO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "43350"
+  },
+  {
+    "number": "215",
+    "badge": "34013",
+    "name": "HERNANDEZ HERNANDEZ MIGUEL",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "34013"
+  },
+  {
+    "number": "216",
+    "badge": "34082",
+    "name": "HERNANDEZ HERNANDEZ VICTOR DAVID",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "34082"
+  },
+  {
+    "number": "218",
+    "badge": "850857",
+    "name": "HERNANDEZ LARA ADRIAN ALAN",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "850857"
+  },
+  {
+    "number": "219",
+    "badge": "47936",
+    "name": "HERNANDEZ MAR MAURICIO ADAN",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "47936"
+  },
+  {
+    "number": "220",
+    "badge": "46609",
+    "name": "HERNANDEZ MARTINEZ LUIS GABRIEL",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "46609"
+  },
+  {
+    "number": "222",
+    "badge": "39656",
+    "name": "HERNANDEZ MOGOLLON JUAN CARLOS",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "39656"
+  },
+  {
+    "number": "223",
+    "badge": "34804",
+    "name": "HERNANDEZ MORALES ALEJANDRO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "34804"
+  },
+  {
+    "number": "231",
+    "badge": "905115",
+    "name": "HERNANDEZ NEGRETE BRENDA",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "905115"
+  },
+  {
+    "number": "232",
+    "badge": "999732",
+    "name": "HERNANDEZ NERI LEONARDO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "999732"
+  },
+  {
+    "number": "233",
+    "badge": "992102",
+    "name": "HERNANDEZ NOYOLA ADRIAN",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "992102"
+  },
+  {
+    "number": "234",
+    "badge": "823242",
+    "name": "HERNANDEZ ORTIZ HUGO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "823242"
+  },
+  {
+    "number": "235",
+    "badge": "1168412",
+    "name": "HERNANDEZ PEÑALOZA LAURA PAOLA",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1168412"
+  },
+  {
+    "number": "225",
+    "badge": "988368",
+    "name": "HERNANDEZ RAMIREZ MARIA MERCEDES",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "988368"
+  },
+  {
+    "number": "236",
+    "badge": "1135918",
+    "name": "HERNANDEZ RAMIREZ MONICA GUADALUPE",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1135918"
+  },
+  {
+    "number": "237",
+    "badge": "1163187",
+    "name": "HERNANDEZ REYES JOSUE DAVID",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1163187"
+  },
+  {
+    "number": "238",
+    "badge": "755056",
+    "name": "HERNANDEZ REZA MARIO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "755056"
+  },
+  {
+    "number": "239",
+    "badge": "1156311",
+    "name": "HERNANDEZ ROMERO EDWIN ISRAEL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1156311"
+  },
+  {
+    "number": "240",
+    "badge": "918947",
+    "name": "HERNANDEZ SALDAÑA EDGAR OZIEL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "918947"
+  },
+  {
+    "number": "241",
+    "badge": "1151195",
+    "name": "HERNANDEZ SAMANO SACID ABRAHAM",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151195"
+  },
+  {
+    "number": "226",
+    "badge": "28729",
+    "name": "HERNANDEZ SAN JUAN PABLO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "28729"
+  },
+  {
+    "number": "227",
+    "badge": "43295",
+    "name": "HERNANDEZ SANCHEZ ISRAEL",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "43295"
+  },
+  {
+    "number": "228",
+    "badge": "6471",
+    "name": "HERNANDEZ SANLUIS NOE",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "6471"
+  },
+  {
+    "number": "242",
+    "badge": "13072",
+    "name": "HERNANDEZ TORRES JOSE AGUSTIN",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "13072"
+  },
+  {
+    "number": "243",
+    "badge": "828534",
+    "name": "HERNANDEZ ZAMORA HERIBERTO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "828534"
+  },
+  {
+    "number": "205",
+    "badge": "29789",
+    "name": "HERNÁNDEZ CEJA HÉCTOR MANUEL",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "29789"
+  },
+  {
+    "number": "208",
+    "badge": "16985",
+    "name": "HERNÁNDEZ DE LA PALMA RAÚL",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "16985"
+  },
+  {
+    "number": "209",
+    "badge": "48647",
+    "name": "HERNÁNDEZ DÍAZ JOSÉ MIGUEL",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "48647"
+  },
+  {
+    "number": "211",
+    "badge": "848400",
+    "name": "HERNÁNDEZ GONZÁLEZ JOSÉ HORACIO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "848400"
+  },
+  {
+    "number": "217",
+    "badge": "860419",
+    "name": "HERNÁNDEZ HERRERA SUSANA",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "860419"
+  },
+  {
+    "number": "221",
+    "badge": "28859",
+    "name": "HERNÁNDEZ MÉNDEZ JOSÉ",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "28859"
+  },
+  {
+    "number": "224",
+    "badge": "5862",
+    "name": "HERNÁNDEZ PRIEGO HÉCTOR",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "5862"
+  },
+  {
+    "number": "244",
+    "badge": "990796",
+    "name": "HERRERA CASTAÑEDA CARLOS STEVEN",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "990796"
+  },
+  {
+    "number": "229",
+    "badge": "1031205",
+    "name": "HERRERA HERNANDEZ JOSUE",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "1031205"
+  },
+  {
+    "number": "245",
+    "badge": "932040",
+    "name": "HERRERA LIMON JUAN MANUEL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "932040"
+  },
+  {
+    "number": "230",
+    "badge": "31544",
+    "name": "HIDALGO CRUZ ANASTACIO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "31544"
+  },
+  {
+    "number": "231",
+    "badge": "1022171",
+    "name": "HIDALGO HERNANDEZ ALMALIS",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "1022171"
+  },
+  {
+    "number": "232",
+    "badge": "25742",
+    "name": "HUERTA AGUILAR MIGUEL",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "25742"
+  },
+  {
+    "number": "246",
+    "badge": "1168377",
+    "name": "HUESCA ROSAS ACIS ISRAEL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1168377"
+  },
+  {
+    "number": "247",
+    "badge": "869889",
+    "name": "IBARRA ESQUIVEL ALBERTO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "869889"
+  },
+  {
+    "number": "248",
+    "badge": "1125087",
+    "name": "IBARRA HERNANDEZ ANA LILI",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1125087"
+  },
+  {
+    "number": "249",
+    "badge": "988374",
+    "name": "IBARRA LIMA MARTIN EDUARDO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "988374"
+  },
+  {
+    "number": "233",
+    "badge": "870573",
+    "name": "IBAÑEZ APANCO MIGUEL ABRAHAM",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "870573"
+  },
+  {
+    "number": "234",
+    "badge": "860480",
+    "name": "INFANTE HIGAREDA MARGARITA",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "860480"
+  },
+  {
+    "number": "235",
+    "badge": "26052",
+    "name": "ISLAS MARTINEZ JOSE LUIS",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "26052"
+  },
+  {
+    "number": "236",
+    "badge": "63842",
+    "name": "ITURRALDE INZUNZA JORGE EDUARDO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "63842"
+  },
+  {
+    "number": "237",
+    "badge": "27296",
+    "name": "JACINTO AVILA CARLOS ALBERTO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "27296"
+  },
+  {
+    "number": "238",
+    "badge": "46946",
+    "name": "JALPA RESÉNDIZ OYUKI YAZMIN",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "46946"
+  },
+  {
+    "number": "250",
+    "badge": "869897",
+    "name": "JARAMILLO ALFARO MIGUEL ANGEL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "869897"
+  },
+  {
+    "number": "251",
+    "badge": "1168386",
+    "name": "JARAMILLO LOPEZ FRANCISCO JAVIER",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1168386"
+  },
+  {
+    "number": "252",
+    "badge": "1168152",
+    "name": "JARILLO ANASTACIO DAVID EDUARDO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1168152"
+  },
+  {
+    "number": "239",
+    "badge": "51641",
+    "name": "JASSO QUIJAS NOEMÍ MARLEN",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "51641"
+  },
+  {
+    "number": "253",
+    "badge": "939771",
+    "name": "JERONIMO JIMENEZ JOSE FIDEL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "939771"
+  },
+  {
+    "number": "254",
+    "badge": "875685",
+    "name": "JIMENEZ CONTRERAS RUBEN OSWALDO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "875685"
+  },
+  {
+    "number": "255",
+    "badge": "1156088",
+    "name": "JIMENEZ FLORES CINTHIA",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1156088"
+  },
+  {
+    "number": "256",
+    "badge": "1127418",
+    "name": "JIMENEZ GUTIERREZ GABRIEL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1127418"
+  },
+  {
+    "number": "257",
+    "badge": "1135927",
+    "name": "JIMENEZ JIMENEZ ALEJANDRA PAOLA",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1135927"
+  },
+  {
+    "number": "240",
+    "badge": "16294",
+    "name": "JIMENEZ JIMENEZ FACUNDO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "16294"
+  },
+  {
+    "number": "241",
+    "badge": "33963",
+    "name": "JIMENEZ MATEO RUFO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "33963"
+  },
+  {
+    "number": "258",
+    "badge": "917298",
+    "name": "JIMENEZ PIÑA MARIBEL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "917298"
+  },
+  {
+    "number": "259",
+    "badge": "1036434",
+    "name": "JIMENEZ RANGEL IVAN",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1036434"
+  },
+  {
+    "number": "242",
+    "badge": "42736",
+    "name": "JIMENEZ SANJUAN JORGE ERWIN",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "42736"
+  },
+  {
+    "number": "260",
+    "badge": "1168158",
+    "name": "JOACHIN BAUTISTA JONNATHAN",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1168158"
+  },
+  {
+    "number": "261",
+    "badge": "847196",
+    "name": "JOVE MARTINEZ JOSE",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "847196"
+  },
+  {
+    "number": "262",
+    "badge": "1036245",
+    "name": "JUAN LOPEZ CARLOS DANIEL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1036245"
+  },
+  {
+    "number": "263",
+    "badge": "902180",
+    "name": "JUAREZ CHAVEZ ELISA ARELY",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "902180"
+  },
+  {
+    "number": "264",
+    "badge": "1156094",
+    "name": "JUAREZ PANTOJA JAVIER",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1156094"
+  },
+  {
+    "number": "265",
+    "badge": "22925",
+    "name": "JUAREZ VAZQUEZ JOSE ALVARO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "22925"
+  },
+  {
+    "number": "266",
+    "badge": "905172",
+    "name": "JUAREZ VAZQUEZ JOSE RICARDO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "905172"
+  },
+  {
+    "number": "267",
+    "badge": "1036342",
+    "name": "JUAREZ ZEAS JESUS",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1036342"
+  },
+  {
+    "number": "268",
+    "badge": "1036609",
+    "name": "JULIAN FUENTES LEONEL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1036609"
+  },
+  {
+    "number": "243",
+    "badge": "850888",
+    "name": "JUÁREZ MÉNDEZ MAYRA",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "850888"
+  },
+  {
+    "number": "269",
+    "badge": "918970",
+    "name": "LANDEROS TOSS OMAR",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "918970"
+  },
+  {
+    "number": "244",
+    "badge": "51416",
+    "name": "LANDIN CAMPOS HORACIO IVAN",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "51416"
+  },
+  {
+    "number": "270",
+    "badge": "882955",
+    "name": "LARES VAZQUEZ IVAN",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "882955"
+  },
+  {
+    "number": "245",
+    "badge": "38076",
+    "name": "LAZARO BERNAL ROBERTO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "38076"
+  },
+  {
+    "number": "246",
+    "badge": "29885",
+    "name": "LEMUS CANO JOSE JORGE",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "29885"
+  },
+  {
+    "number": "271",
+    "badge": "919027",
+    "name": "LEON GONZALEZ CRISTIAN RUBEN",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "919027"
+  },
+  {
+    "number": "272",
+    "badge": "764134",
+    "name": "LEON REYNA EDGAR RASIEL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "764134"
+  },
+  {
+    "number": "273",
+    "badge": "934903",
+    "name": "LEYVA LOPEZ ARMANDO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "934903"
+  },
+  {
+    "number": "274",
+    "badge": "988193",
+    "name": "LEZAMA FABIAN OSCAR OCTAVIO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "988193"
+  },
+  {
+    "number": "275",
+    "badge": "1151306",
+    "name": "LILI ALVAREZ NERI",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151306"
+  },
+  {
+    "number": "247",
+    "badge": "7109",
+    "name": "LINARES CARLOS SANTOS",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "7109"
+  },
+  {
+    "number": "276",
+    "badge": "919028",
+    "name": "LOAIZA ROMERO JESUS",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "919028"
+  },
+  {
+    "number": "248",
+    "badge": "36304",
+    "name": "LOERA MARTINEZ RICARDO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "36304"
+  },
+  {
+    "number": "277",
+    "badge": "934906",
+    "name": "LOPEZ ALVAREZ JOSE ARMANDO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "934906"
+  },
+  {
+    "number": "249",
+    "badge": "7147",
+    "name": "LOPEZ ALVAREZ RODRIGO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "7147"
+  },
+  {
+    "number": "250",
+    "badge": "32008",
+    "name": "LOPEZ ARRIETA JOSE ARMANDO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "32008"
+  },
+  {
+    "number": "278",
+    "badge": "1163289",
+    "name": "LOPEZ BERNAL MONICA ALEJANDRA",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1163289"
+  },
+  {
+    "number": "279",
+    "badge": "1141797",
+    "name": "LOPEZ CEDILLO NELI YAQUELIN",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1141797"
+  },
+  {
+    "number": "251",
+    "badge": "17571",
+    "name": "LOPEZ FAVILA FERNANDO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "17571"
+  },
+  {
+    "number": "252",
+    "badge": "39349",
+    "name": "LOPEZ FLORES JANET",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "39349"
+  },
+  {
+    "number": "280",
+    "badge": "1151314",
+    "name": "LOPEZ HERNANDEZ JORGE ARMANDO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151314"
+  },
+  {
+    "number": "281",
+    "badge": "1126546",
+    "name": "LOPEZ LOPEZ MIGUEL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1126546"
+  },
+  {
+    "number": "282",
+    "badge": "714678",
+    "name": "LOPEZ LUGO DAVID DE JESUS",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "714678"
+  },
+  {
+    "number": "283",
+    "badge": "986852",
+    "name": "LOPEZ LUNA ISRAEL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "986852"
+  },
+  {
+    "number": "256",
+    "badge": "49951",
+    "name": "LOPEZ MACIAS LUIS JESUS",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "49951"
+  },
+  {
+    "number": "284",
+    "badge": "822586",
+    "name": "LOPEZ MARTINEZ CESAR",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "822586"
+  },
+  {
+    "number": "257",
+    "badge": "14516",
+    "name": "LOPEZ NEGRETE MARCOS",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "14516"
+  },
+  {
+    "number": "285",
+    "badge": "999765",
+    "name": "LOPEZ NIEVES OSCAR JESUS",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "999765"
+  },
+  {
+    "number": "258",
+    "badge": "36837",
+    "name": "LOPEZ OJEDA MANUEL",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "36837"
+  },
+  {
+    "number": "259",
+    "badge": "54235",
+    "name": "LOPEZ RAMIREZ CARLOS",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "54235"
+  },
+  {
+    "number": "260",
+    "badge": "39145",
+    "name": "LOPEZ RAZO ERNESTO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "39145"
+  },
+  {
+    "number": "286",
+    "badge": "984902",
+    "name": "LOPEZ ROQUE MARIA PAOLA",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "984902"
+  },
+  {
+    "number": "287",
+    "badge": "1002851",
+    "name": "LOPEZ SANCHEZ JUAN JOSUE",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1002851"
+  },
+  {
+    "number": "261",
+    "badge": "7372",
+    "name": "LOPEZ SANTIAGO OCTAVIO JUAN",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "7372"
+  },
+  {
+    "number": "262",
+    "badge": "984903",
+    "name": "LOPEZ SANTILLAN ANA MARIA",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "984903"
+  },
+  {
+    "number": "288",
+    "badge": "910434",
+    "name": "LOPEZ VELAZQUEZ RUUD JACOB",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "910434"
+  },
+  {
+    "number": "289",
+    "badge": "883017",
+    "name": "LOPEZ VILLAFRANCO JOSE DOMINGO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "883017"
+  },
+  {
+    "number": "290",
+    "badge": "1036348",
+    "name": "LORENZO QUIROZ ADRIAN",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1036348"
+  },
+  {
+    "number": "263",
+    "badge": "36792",
+    "name": "LOYOLA MAGAÑA ERIKA JANET",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "36792"
+  },
+  {
+    "number": "291",
+    "badge": "1151410",
+    "name": "LOZADA ALONSO CARLOS",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151410"
+  },
+  {
+    "number": "264",
+    "badge": "43575",
+    "name": "LOZADA TAPIA JAIME ISRAEL",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "43575"
+  },
+  {
+    "number": "292",
+    "badge": "36616",
+    "name": "LOZANO MORALES GUSTAVO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "36616"
+  },
+  {
+    "number": "293",
+    "badge": "1151148",
+    "name": "LUCIA ROMERO JUAN CARLOS",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151148"
+  },
+  {
+    "number": "265",
+    "badge": "40573",
+    "name": "LUIS JUAN JOSE FRANCISCO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "40573"
+  },
+  {
+    "number": "294",
+    "badge": "1151168",
+    "name": "LUNA DIAZ NOTZI JATZIRI",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151168"
+  },
+  {
+    "number": "266",
+    "badge": "40108",
+    "name": "LUNA FLORES FRANCISCO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "40108"
+  },
+  {
+    "number": "295",
+    "badge": "1151184",
+    "name": "LUNA LOPEZ WENDY JANETH",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151184"
+  },
+  {
+    "number": "253",
+    "badge": "49516",
+    "name": "LÓPEZ HERNÁNDEZ CECILIA",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "49516"
+  },
+  {
+    "number": "254",
+    "badge": "907010",
+    "name": "LÓPEZ HERNÁNDEZ LIZBETH RUBÍ",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "907010"
+  },
+  {
+    "number": "255",
+    "badge": "59065",
+    "name": "LÓPEZ LÓPEZ ISABEL",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "59065"
+  },
+  {
+    "number": "296",
+    "badge": "820632",
+    "name": "MACARENA GONZALEZ GERARDO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "820632"
+  },
+  {
+    "number": "297",
+    "badge": "1168193",
+    "name": "MAGNO GONZALEZ ANGEL EDUARDO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1168193"
+  },
+  {
+    "number": "267",
+    "badge": "7541",
+    "name": "MALAGÓN VERA FERNANDO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "7541"
+  },
+  {
+    "number": "298",
+    "badge": "751177",
+    "name": "MALDONADO GONZALEZ JOSE ALFREDO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "751177"
+  },
+  {
+    "number": "268",
+    "badge": "40860",
+    "name": "MALDONADO MARIN JASMIN",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "40860"
+  },
+  {
+    "number": "269",
+    "badge": "1171574",
+    "name": "MALDONADO MAZÓN DIEGO ALBERTO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "1171574"
+  },
+  {
+    "number": "299",
+    "badge": "1168195",
+    "name": "MALDONADO REYES IRLANDA GABRIELA",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1168195"
+  },
+  {
+    "number": "300",
+    "badge": "1151192",
+    "name": "MANCERA SILVA LITZY PAOLA",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151192"
+  },
+  {
+    "number": "301",
+    "badge": "907019",
+    "name": "MARCA GONZALEZ ERIK ALEJANDRO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "907019"
+  },
+  {
+    "number": "270",
+    "badge": "37078",
+    "name": "MARIN PRUDENCIO JOSE MANUEL",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "37078"
+  },
+  {
+    "number": "271",
+    "badge": "37437",
+    "name": "MARIN RAMOS ROCIO MIREYA",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "37437"
+  },
+  {
+    "number": "302",
+    "badge": "1168201",
+    "name": "MARQUEZ LOPEZ LESLY",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1168201"
+  },
+  {
+    "number": "272",
+    "badge": "20369",
+    "name": "MARTINEZ ANTONIO FLORENCIO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "20369"
+  },
+  {
+    "number": "303",
+    "badge": "903748",
+    "name": "MARTINEZ ARROYO ROCIO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "903748"
+  },
+  {
+    "number": "304",
+    "badge": "1151208",
+    "name": "MARTINEZ CALVO JOSE DE JESUS",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151208"
+  },
+  {
+    "number": "273",
+    "badge": "33842",
+    "name": "MARTINEZ CASTAÑEDA ISRAEL",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "33842"
+  },
+  {
+    "number": "305",
+    "badge": "869905",
+    "name": "MARTINEZ CRUZ NEMECIO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "869905"
+  },
+  {
+    "number": "274",
+    "badge": "31521",
+    "name": "MARTINEZ ESCAMILLA ALFREDO GILBERTO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "31521"
+  },
+  {
+    "number": "306",
+    "badge": "837684",
+    "name": "MARTINEZ GONZALEZ BERNARDO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "837684"
+  },
+  {
+    "number": "307",
+    "badge": "42072",
+    "name": "MARTINEZ GONZALEZ JOSE ALONSO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "42072"
+  },
+  {
+    "number": "308",
+    "badge": "1168202",
+    "name": "MARTINEZ GONZALEZ SAMANTHA",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1168202"
+  },
+  {
+    "number": "275",
+    "badge": "35714",
+    "name": "MARTINEZ HERNANDEZ JORGE",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "35714"
+  },
+  {
+    "number": "276",
+    "badge": "41492",
+    "name": "MARTINEZ HERNANDEZ JUAN CARLOS",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "41492"
+  },
+  {
+    "number": "309",
+    "badge": "1126636",
+    "name": "MARTINEZ HERNANDEZ VICTOR",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1126636"
+  },
+  {
+    "number": "279",
+    "badge": "847449",
+    "name": "MARTINEZ JIMENEZ VIRGINIA",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "847449"
+  },
+  {
+    "number": "310",
+    "badge": "1032802",
+    "name": "MARTINEZ MARIN GRACIELA MAGALI",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1032802"
+  },
+  {
+    "number": "311",
+    "badge": "907823",
+    "name": "MARTINEZ MARTINEZ DAVID",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "907823"
+  },
+  {
+    "number": "280",
+    "badge": "22710",
+    "name": "MARTINEZ MARTINEZ JAIME",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "22710"
+  },
+  {
+    "number": "312",
+    "badge": "869756",
+    "name": "MARTINEZ MARTINEZ JORGE",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "869756"
+  },
+  {
+    "number": "281",
+    "badge": "41654",
+    "name": "MARTINEZ MARTINEZ ROBERTO ALFONSO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "41654"
+  },
+  {
+    "number": "313",
+    "badge": "999761",
+    "name": "MARTINEZ MARTINEZ SERGIO ALEJANDRO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "999761"
+  },
+  {
+    "number": "282",
+    "badge": "40606",
+    "name": "MARTINEZ MIGUEL MARLEN",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "40606"
+  },
+  {
+    "number": "314",
+    "badge": "1016558",
+    "name": "MARTINEZ MOLINA CARLOS ANGEL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1016558"
+  },
+  {
+    "number": "284",
+    "badge": "29959",
+    "name": "MARTINEZ NICIO BENITO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "29959"
+  },
+  {
+    "number": "285",
+    "badge": "7924",
+    "name": "MARTINEZ OLVERA RICARDO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "7924"
+  },
+  {
+    "number": "315",
+    "badge": "1163057",
+    "name": "MARTINEZ PARRA FRANCISCO BARUC",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1163057"
+  },
+  {
+    "number": "316",
+    "badge": "907029",
+    "name": "MARTINEZ PEREZ MARIO ALBERTO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "907029"
+  },
+  {
+    "number": "317",
+    "badge": "1151224",
+    "name": "MARTINEZ RAMIREZ JANET",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151224"
+  },
+  {
+    "number": "318",
+    "badge": "905317",
+    "name": "MARTINEZ SALAS ELIZABETH",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "905317"
+  },
+  {
+    "number": "289",
+    "badge": "41309",
+    "name": "MARTINEZ SOLORZANO CRISTHIAN ULISES",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "41309"
+  },
+  {
+    "number": "290",
+    "badge": "52996",
+    "name": "MARTINEZ TOGA DINORAH ILIANA",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "52996"
+  },
+  {
+    "number": "319",
+    "badge": "1168204",
+    "name": "MARTINEZ VELAZQUEZ ANA SAIDY",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1168204"
+  },
+  {
+    "number": "320",
+    "badge": "939751",
+    "name": "MARTINEZ VILLEDA OSWALDO ALDAIR",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "939751"
+  },
+  {
+    "number": "277",
+    "badge": "35082",
+    "name": "MARTÍNEZ HERNÁNDEZ LEOBARDO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "35082"
+  },
+  {
+    "number": "278",
+    "badge": "37635",
+    "name": "MARTÍNEZ HERNÁNDEZ OSCAR",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "37635"
+  },
+  {
+    "number": "283",
+    "badge": "52367",
+    "name": "MARTÍNEZ MORALES KAREN JACQUELINE",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "52367"
+  },
+  {
+    "number": "286",
+    "badge": "850242",
+    "name": "MARTÍNEZ PÉREZ MANOLO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "850242"
+  },
+  {
+    "number": "287",
+    "badge": "63841",
+    "name": "MARTÍNEZ RAMÍREZ DIEGO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "63841"
+  },
+  {
+    "number": "288",
+    "badge": "29446",
+    "name": "MARTÍNEZ RODRÍGUEZ ERNESTO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "29446"
+  },
+  {
+    "number": "321",
+    "badge": "882756",
+    "name": "MATADAMAS LOBERA ERICK OSBALDO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "882756"
+  },
+  {
+    "number": "291",
+    "badge": "54236",
+    "name": "MATEOS DOMÍNGUEZ DAVID",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "54236"
+  },
+  {
+    "number": "292",
+    "badge": "52614",
+    "name": "MATSUO SANTIAGO RICARDO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "52614"
+  },
+  {
+    "number": "293",
+    "badge": "8113",
+    "name": "MEDINA RANGEL RAMIRO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "8113"
+  },
+  {
+    "number": "322",
+    "badge": "916294",
+    "name": "MEDRANO MARTINEZ ANGEL MANUEL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "916294"
+  },
+  {
+    "number": "294",
+    "badge": "29501",
+    "name": "MEJIA CERVANTES ROMAN",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "29501"
+  },
+  {
+    "number": "323",
+    "badge": "1163077",
+    "name": "MELCHOR ARZATE MAYRA",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1163077"
+  },
+  {
+    "number": "324",
+    "badge": "915557",
+    "name": "MELENDEZ HERNANDEZ ISMAEL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "915557"
+  },
+  {
+    "number": "325",
+    "badge": "1163085",
+    "name": "MELGOZA HERNANDEZ ABEL CRESCENCIO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1163085"
+  },
+  {
+    "number": "295",
+    "badge": "36391",
+    "name": "MENA CRUZ MARCO ANTONIO CARMELO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "36391"
+  },
+  {
+    "number": "326",
+    "badge": "998536",
+    "name": "MENDEZ AQUINO PEDRO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "998536"
+  },
+  {
+    "number": "297",
+    "badge": "41457",
+    "name": "MENDEZ FLORES EMMANUEL OMAR",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "41457"
+  },
+  {
+    "number": "327",
+    "badge": "1156204",
+    "name": "MENDEZ MENDEZ VICTOR PASCUAL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1156204"
+  },
+  {
+    "number": "328",
+    "badge": "818874",
+    "name": "MENDEZ ORTIZ RODRIGO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "818874"
+  },
+  {
+    "number": "329",
+    "badge": "1151244",
+    "name": "MENDEZ VELAZQUEZ MAIRA LUCINA",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151244"
+  },
+  {
+    "number": "298",
+    "badge": "53303",
+    "name": "MENDIOLA CRUZ AARON FRANCISCO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "53303"
+  },
+  {
+    "number": "330",
+    "badge": "830932",
+    "name": "MENDOZA AGUILAR JOSE",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "830932"
+  },
+  {
+    "number": "331",
+    "badge": "8272",
+    "name": "MENDOZA GARCIA ANASTACIO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "8272"
+  },
+  {
+    "number": "332",
+    "badge": "1168236",
+    "name": "MENDOZA HERNANDEZ DANIELA ESTEFANIA",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1168236"
+  },
+  {
+    "number": "299",
+    "badge": "1031044",
+    "name": "MENDOZA HERNÁNDEZ OMAR",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "1031044"
+  },
+  {
+    "number": "300",
+    "badge": "26105",
+    "name": "MENDOZA HUERTA RICARDO AUGUSTO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "26105"
+  },
+  {
+    "number": "301",
+    "badge": "8297",
+    "name": "MENDOZA MENDEZ MARTIN",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "8297"
+  },
+  {
+    "number": "302",
+    "badge": "1127406",
+    "name": "MENDOZA RODRIGUEZ GEOVANA MARCELA",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "1127406"
+  },
+  {
+    "number": "303",
+    "badge": "1031051",
+    "name": "MERCADO RODRIGUEZ JESUS EDUARDO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "1031051"
+  },
+  {
+    "number": "333",
+    "badge": "1163111",
+    "name": "MERCADO SANTOS PAOLA MARISOL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1163111"
+  },
+  {
+    "number": "304",
+    "badge": "22055",
+    "name": "MERIDA ACOSTA MANUEL",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "22055"
+  },
+  {
+    "number": "334",
+    "badge": "1151256",
+    "name": "MEXICANO LUNA RUBEN",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151256"
+  },
+  {
+    "number": "335",
+    "badge": "1151259",
+    "name": "MEZA RODRIGUEZ KARLA MICHELL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151259"
+  },
+  {
+    "number": "305",
+    "badge": "35219",
+    "name": "MIGUEL RAMIREZ LUIS ALBERTO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "35219"
+  },
+  {
+    "number": "306",
+    "badge": "53713",
+    "name": "MIGUEL SOLIS JHONATAN",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "53713"
+  },
+  {
+    "number": "336",
+    "badge": "915712",
+    "name": "MILLAN SAAVEDRA MARBELLA",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "915712"
+  },
+  {
+    "number": "307",
+    "badge": "62664",
+    "name": "MIRANDA PETREARCE KARLA SARAHI",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "62664"
+  },
+  {
+    "number": "308",
+    "badge": "1022186",
+    "name": "MIRANDA RAMIREZ VIRIDIANA ISABEL",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "1022186"
+  },
+  {
+    "number": "309",
+    "badge": "8448",
+    "name": "MOCTEZUMA MARIN NABOR",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "8448"
+  },
+  {
+    "number": "337",
+    "badge": "1156222",
+    "name": "MOLINA BUITRON VICTOR HUGO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1156222"
+  },
+  {
+    "number": "338",
+    "badge": "750415",
+    "name": "MOLOTLA JARDINES DANIEL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "750415"
+  },
+  {
+    "number": "339",
+    "badge": "830660",
+    "name": "MONDRAGON PEDRERA RODRIGO UBALDO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "830660"
+  },
+  {
+    "number": "340",
+    "badge": "1020850",
+    "name": "MONGE ARTEAGA ANGEL ALEXISS",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1020850"
+  },
+  {
+    "number": "310",
+    "badge": "21794",
+    "name": "MONROY GUZMÁN JORGE",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "21794"
+  },
+  {
+    "number": "311",
+    "badge": "48696",
+    "name": "MONTALVO ESTRADA CRISTHIAN",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "48696"
+  },
+  {
+    "number": "341",
+    "badge": "36154",
+    "name": "MONTAÑO ALVARADO AARON",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "36154"
+  },
+  {
+    "number": "342",
+    "badge": "1025577",
+    "name": "MONTAÑO DELGADO DANIELA MICHELLE",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1025577"
+  },
+  {
+    "number": "343",
+    "badge": "1156246",
+    "name": "MONTER PAZ JOSE PABLO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1156246"
+  },
+  {
+    "number": "344",
+    "badge": "916307",
+    "name": "MONTERO SERRANO ALVARO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "916307"
+  },
+  {
+    "number": "345",
+    "badge": "933824",
+    "name": "MONTES HERNANDEZ MICHEL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "933824"
+  },
+  {
+    "number": "312",
+    "badge": "39648",
+    "name": "MONTES NUÑEZ ALBERTO ADRIAN",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "39648"
+  },
+  {
+    "number": "346",
+    "badge": "1090194",
+    "name": "MONTIEL HERNANDEZ LOURDES VERENICE",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1090194"
+  },
+  {
+    "number": "347",
+    "badge": "1163124",
+    "name": "MORALES ARENAS JUAN PABLO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1163124"
+  },
+  {
+    "number": "313",
+    "badge": "32595",
+    "name": "MORALES FERRER VICTOR MANUEL",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "32595"
+  },
+  {
+    "number": "314",
+    "badge": "24126",
+    "name": "MORALES HERNANDEZ ELEAZAR",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "24126"
+  },
+  {
+    "number": "348",
+    "badge": "1151280",
+    "name": "MORALES MARTINEZ AXEL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151280"
+  },
+  {
+    "number": "349",
+    "badge": "1163126",
+    "name": "MORALES MAZARIEGOS SERGIO ISRAEL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1163126"
+  },
+  {
+    "number": "350",
+    "badge": "1151350",
+    "name": "MORALES OLVERA VICTOR MANUEL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151350"
+  },
+  {
+    "number": "351",
+    "badge": "1151393",
+    "name": "MORALES PADILLA MONSERATH",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151393"
+  },
+  {
+    "number": "315",
+    "badge": "836551",
+    "name": "MORALES PAVÓN JUNUEN VIRGINIA",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "836551"
+  },
+  {
+    "number": "316",
+    "badge": "848382",
+    "name": "MORALES RODRÍGUEZ SALVADOR",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "848382"
+  },
+  {
+    "number": "317",
+    "badge": "848462",
+    "name": "MORALES RUBIO LUIS FABIAN",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "848462"
+  },
+  {
+    "number": "352",
+    "badge": "50597",
+    "name": "MORENO ALVARADO EVERARDO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "50597"
+  },
+  {
+    "number": "353",
+    "badge": "850784",
+    "name": "MORENO LUCIANO JOSE DE JESUS",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "850784"
+  },
+  {
+    "number": "354",
+    "badge": "1168263",
+    "name": "MORENO OVANDO FIDEL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1168263"
+  },
+  {
+    "number": "318",
+    "badge": "30944",
+    "name": "MORENO SECUNDINO ALFREDO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "30944"
+  },
+  {
+    "number": "319",
+    "badge": "16096",
+    "name": "MORENO ZAVALA SILVERIO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "16096"
+  },
+  {
+    "number": "320",
+    "badge": "8742",
+    "name": "MOSQUEDA PANTOJA RAFAEL",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "8742"
+  },
+  {
+    "number": "355",
+    "badge": "1168273",
+    "name": "MUNDO RODRIGUEZ ITZURI",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1168273"
+  },
+  {
+    "number": "356",
+    "badge": "919064",
+    "name": "MUNGUIA JAIMES ANGEL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "919064"
+  },
+  {
+    "number": "357",
+    "badge": "1151349",
+    "name": "MUÑOZ DE LOS SANTOS SARAY",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151349"
+  },
+  {
+    "number": "358",
+    "badge": "905245",
+    "name": "MUÑOZ HERNANDEZ FRANCISCO JAVIER",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "905245"
+  },
+  {
+    "number": "359",
+    "badge": "870625",
+    "name": "MUÑOZ PEREZ GUSTAVO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "870625"
+  },
+  {
+    "number": "321",
+    "badge": "42926",
+    "name": "MUÑOZ VAZQUEZ VICENTE CRISTOPHER",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "42926"
+  },
+  {
+    "number": "296",
+    "badge": "30313",
+    "name": "MÉNDEZ CRUZ MARCO ANTONIO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "30313"
+  },
+  {
+    "number": "322",
+    "badge": "905248",
+    "name": "NABOR CRUZ JORGE ALEJANDRO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "905248"
+  },
+  {
+    "number": "360",
+    "badge": "1163161",
+    "name": "NAJERA LARIOS MARIO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1163161"
+  },
+  {
+    "number": "323",
+    "badge": "26445",
+    "name": "NAVA CRUZ ONECIMO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "26445"
+  },
+  {
+    "number": "361",
+    "badge": "916315",
+    "name": "NAVA ENRIQUEZ MIGUEL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "916315"
+  },
+  {
+    "number": "362",
+    "badge": "916317",
+    "name": "NAVA GONZALEZ JUAN CARLOS",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "916317"
+  },
+  {
+    "number": "363",
+    "badge": "1125224",
+    "name": "NAVA TITLA ROSALBA",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1125224"
+  },
+  {
+    "number": "364",
+    "badge": "919071",
+    "name": "NAVARRETE ANGELES ISMAEL ALEJANDRO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "919071"
+  },
+  {
+    "number": "324",
+    "badge": "45442",
+    "name": "NAVARRO SANCHEZ ALEJANDRO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "45442"
+  },
+  {
+    "number": "365",
+    "badge": "57739",
+    "name": "NAVARRO SOTO KRISTHIAN FERNANDO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "57739"
+  },
+  {
+    "number": "325",
+    "badge": "43355",
+    "name": "NAZARIO AGUSTIN MARCO ANTONIO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "43355"
+  },
+  {
+    "number": "366",
+    "badge": "1151385",
+    "name": "NESTOR ROMERO ESAU",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151385"
+  },
+  {
+    "number": "367",
+    "badge": "1001146",
+    "name": "NICOLAS JOSE ENRIQUE",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1001146"
+  },
+  {
+    "number": "368",
+    "badge": "927131",
+    "name": "NIEVES ALVARADO CARLOS MIGUEL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "927131"
+  },
+  {
+    "number": "369",
+    "badge": "1125201",
+    "name": "NOLBERTO PARDO ALEJANDRA LIZBETH",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1125201"
+  },
+  {
+    "number": "370",
+    "badge": "1156289",
+    "name": "NUÑEZ MAGOS ALEJANDRO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1156289"
+  },
+  {
+    "number": "371",
+    "badge": "1151320",
+    "name": "NUÑEZ RAMIREZ MARIA GUADALUPE",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151320"
+  },
+  {
+    "number": "372",
+    "badge": "986677",
+    "name": "NUÑEZ SANCHEZ TANIA PAULETTE",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "986677"
+  },
+  {
+    "number": "373",
+    "badge": "975108",
+    "name": "OCEJO CORTES JORDY IRVING",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "975108"
+  },
+  {
+    "number": "374",
+    "badge": "1126657",
+    "name": "OCHOA MORENO JOSE LUIS",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1126657"
+  },
+  {
+    "number": "375",
+    "badge": "907796",
+    "name": "OCOTL AYALA HECTOR",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "907796"
+  },
+  {
+    "number": "376",
+    "badge": "1002810",
+    "name": "OLALDE RODRIGUEZ ANGEL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1002810"
+  },
+  {
+    "number": "377",
+    "badge": "9027",
+    "name": "OLGUIN VILLEGAS LINDORO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "9027"
+  },
+  {
+    "number": "326",
+    "badge": "61497",
+    "name": "OLMEDO TELLEZ JOSE ARTURO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "61497"
+  },
+  {
+    "number": "378",
+    "badge": "1151255",
+    "name": "OLVERA CASTILLO BRENDA IVETT",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151255"
+  },
+  {
+    "number": "327",
+    "badge": "43137",
+    "name": "OLVERA HERNANDEZ JACQUELIN",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "43137"
+  },
+  {
+    "number": "379",
+    "badge": "916325",
+    "name": "ONOFRE GONZALEZ JHONY FRANK",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "916325"
+  },
+  {
+    "number": "380",
+    "badge": "1156101",
+    "name": "ORDAZ NAVARRETE ERICK DANIEL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1156101"
+  },
+  {
+    "number": "381",
+    "badge": "905268",
+    "name": "ORDOÑEZ REYES JUAN IVAN",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "905268"
+  },
+  {
+    "number": "382",
+    "badge": "1151360",
+    "name": "ORIZABA MORALES DANIEL STEVE",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151360"
+  },
+  {
+    "number": "383",
+    "badge": "915574",
+    "name": "OROPEZA ALMARAZ OSCAR DAVID",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "915574"
+  },
+  {
+    "number": "384",
+    "badge": "905272",
+    "name": "ORTEGA VAZQUEZ EDUARDO ANTONIO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "905272"
+  },
+  {
+    "number": "328",
+    "badge": "28203",
+    "name": "ORTIZ DE LA CRUZ IMELDA",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "28203"
+  },
+  {
+    "number": "329",
+    "badge": "46000",
+    "name": "ORTIZ FAUSTINO MARDOQUEO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "46000"
+  },
+  {
+    "number": "385",
+    "badge": "1090522",
+    "name": "ORTIZ GARCIA BRENDA ARIANA",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1090522"
+  },
+  {
+    "number": "386",
+    "badge": "1151330",
+    "name": "ORTIZ PALESTINO JORGE LUIS",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151330"
+  },
+  {
+    "number": "330",
+    "badge": "870107",
+    "name": "ORTIZ VARGAS SERGIO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "870107"
+  },
+  {
+    "number": "387",
+    "badge": "917269",
+    "name": "OSORIO JARAMILLO CARLOS",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "917269"
+  },
+  {
+    "number": "331",
+    "badge": "9245",
+    "name": "OSORIO OSORIO SEVERO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "9245"
+  },
+  {
+    "number": "388",
+    "badge": "1163197",
+    "name": "OSORIO RAMIREZ RAUL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1163197"
+  },
+  {
+    "number": "389",
+    "badge": "862937",
+    "name": "OSORIO SALDAÑA ERIC ADRIAN",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "862937"
+  },
+  {
+    "number": "332",
+    "badge": "13259",
+    "name": "OTERO ORTIZ FELIX",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "13259"
+  },
+  {
+    "number": "390",
+    "badge": "24903",
+    "name": "PACHECO CORTES SEBASTIAN ROBERTO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "24903"
+  },
+  {
+    "number": "391",
+    "badge": "1168288",
+    "name": "PACHECO ESPINOZA ADRIAN",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1168288"
+  },
+  {
+    "number": "333",
+    "badge": "42228",
+    "name": "PACHECO SANTIAGO NOE ADAN",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "42228"
+  },
+  {
+    "number": "334",
+    "badge": "61025",
+    "name": "PADILLA HUITRON STHEPANIE RUBI",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "61025"
+  },
+  {
+    "number": "335",
+    "badge": "21826",
+    "name": "PALACIOS DOMINGUEZ ADRIANA DEL CARMEN",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "21826"
+  },
+  {
+    "number": "392",
+    "badge": "55138",
+    "name": "PALMA ESPAÑA ALEJANDRO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "55138"
+  },
+  {
+    "number": "336",
+    "badge": "34621",
+    "name": "PALMA ESPAÑA CARLOS",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "34621"
+  },
+  {
+    "number": "337",
+    "badge": "52752",
+    "name": "PANTOJA RAMOS RAMSES NEFI",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "52752"
+  },
+  {
+    "number": "393",
+    "badge": "838430",
+    "name": "PAREDES GONZALEZ EMMANUEL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "838430"
+  },
+  {
+    "number": "394",
+    "badge": "1168294",
+    "name": "PAREDES GONZALEZ JHONATAN",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1168294"
+  },
+  {
+    "number": "395",
+    "badge": "915578",
+    "name": "PARTIDO CASTILLO CHRISTOPHER",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "915578"
+  },
+  {
+    "number": "396",
+    "badge": "986703",
+    "name": "PASTRANA GONZALEZ EDGAR",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "986703"
+  },
+  {
+    "number": "397",
+    "badge": "20347",
+    "name": "PATIÑO COBOS JIMMY JOEL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "20347"
+  },
+  {
+    "number": "398",
+    "badge": "903847",
+    "name": "PATIÑO ESCOBAR IVAN ALBERTO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "903847"
+  },
+  {
+    "number": "338",
+    "badge": "18886",
+    "name": "PATIÑO IGLESIAS FRANCISCO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "18886"
+  },
+  {
+    "number": "399",
+    "badge": "1151362",
+    "name": "PATLAN RODRIGUEZ FRANCISCO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151362"
+  },
+  {
+    "number": "339",
+    "badge": "43945",
+    "name": "PATRICIO HERNANDEZ HAIDE ALEJANDRA",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "43945"
+  },
+  {
+    "number": "400",
+    "badge": "837940",
+    "name": "PAZ GOMEZ LUIS ANTONIO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "837940"
+  },
+  {
+    "number": "401",
+    "badge": "1007447",
+    "name": "PAZ LOPEZ ALAN MAURICIO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1007447"
+  },
+  {
+    "number": "404",
+    "badge": "902250",
+    "name": "PERALTA ORTIZ CLISERIO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "902250"
+  },
+  {
+    "number": "405",
+    "badge": "919099",
+    "name": "PERALTA YAHUACA SULEYMA ABIGAIL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "919099"
+  },
+  {
+    "number": "340",
+    "badge": "23208",
+    "name": "PEREA RODRIGUEZ ALBERTO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "23208"
+  },
+  {
+    "number": "341",
+    "badge": "52375",
+    "name": "PEREZ BARRAGAN ESTEBAN ALBERTO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "52375"
+  },
+  {
+    "number": "406",
+    "badge": "905295",
+    "name": "PEREZ CRISOSTOMO JOSE LUIS",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "905295"
+  },
+  {
+    "number": "407",
+    "badge": "916351",
+    "name": "PEREZ FRANCISCO JOSE JUAN",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "916351"
+  },
+  {
+    "number": "408",
+    "badge": "1126569",
+    "name": "PEREZ GARCIA EDGAR",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1126569"
+  },
+  {
+    "number": "409",
+    "badge": "1168176",
+    "name": "PEREZ GARRIDO CASANDRA",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1168176"
+  },
+  {
+    "number": "410",
+    "badge": "9588",
+    "name": "PEREZ LOPEZ MIGUEL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "9588"
+  },
+  {
+    "number": "411",
+    "badge": "862962",
+    "name": "PEREZ MAYA ROGELIO ARMANDO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "862962"
+  },
+  {
+    "number": "343",
+    "badge": "9617",
+    "name": "PEREZ NAPOLES JOSE LUIS",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "9617"
+  },
+  {
+    "number": "345",
+    "badge": "50628",
+    "name": "PEREZ OSORIO JOSE CUATE",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "50628"
+  },
+  {
+    "number": "412",
+    "badge": "35259",
+    "name": "PEREZ RIVERA NEMECIO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "35259"
+  },
+  {
+    "number": "413",
+    "badge": "907827",
+    "name": "PEREZ SOLANO ERIC GERARDO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "907827"
+  },
+  {
+    "number": "414",
+    "badge": "1126532",
+    "name": "PERUSQUIA RODRIGUEZ ILDEFONSO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1126532"
+  },
+  {
+    "number": "402",
+    "badge": "1168295",
+    "name": "PEÑA TAPIA ALEXIS",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1168295"
+  },
+  {
+    "number": "403",
+    "badge": "871256",
+    "name": "PEÑALOZA SANDOVAL MIGUEL ANGEL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "871256"
+  },
+  {
+    "number": "415",
+    "badge": "31219",
+    "name": "PICAZO MARTINEZ JAIME",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "31219"
+  },
+  {
+    "number": "416",
+    "badge": "34552",
+    "name": "PICENO BARCEINAS JOSEFINA TRINIDAD",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "34552"
+  },
+  {
+    "number": "417",
+    "badge": "934970",
+    "name": "PINEDA AYALA DANIEL VENTURA",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "934970"
+  },
+  {
+    "number": "418",
+    "badge": "915585",
+    "name": "PINEDA FLORES JESSICA",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "915585"
+  },
+  {
+    "number": "346",
+    "badge": "984743",
+    "name": "PITA ARREOLA RANGEL IRAIS",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "984743"
+  },
+  {
+    "number": "419",
+    "badge": "871277",
+    "name": "PIÑA DIAZ ERIK",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "871277"
+  },
+  {
+    "number": "420",
+    "badge": "1001137",
+    "name": "PLANCARTE MARROQUIN SAMUEL BENJAMIN",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1001137"
+  },
+  {
+    "number": "421",
+    "badge": "47832",
+    "name": "PLATA GUTIERREZ CARLOS EDUARDO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "47832"
+  },
+  {
+    "number": "422",
+    "badge": "927034",
+    "name": "PLAZA RAMIREZ EDGAR EDUARDO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "927034"
+  },
+  {
+    "number": "423",
+    "badge": "1168203",
+    "name": "POMPA PAEZ KEVIN YAIR",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1168203"
+  },
+  {
+    "number": "347",
+    "badge": "9837",
+    "name": "PUC NAVA JESUS ANDRES",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "9837"
+  },
+  {
+    "number": "424",
+    "badge": "856228",
+    "name": "PUGA BARRAGAN JOSE CARLOS",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "856228"
+  },
+  {
+    "number": "342",
+    "badge": "30596",
+    "name": "PÉREZ BRAVO ANDRÉS",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "30596"
+  },
+  {
+    "number": "344",
+    "badge": "17127",
+    "name": "PÉREZ NICOLÁS SANTOS",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "17127"
+  },
+  {
+    "number": "425",
+    "badge": "1168205",
+    "name": "QUEZADA IBAÑEZ FERNANDO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1168205"
+  },
+  {
+    "number": "426",
+    "badge": "1128063",
+    "name": "QUIJANO ESQUIVEL MARTHA YUNUEE",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1128063"
+  },
+  {
+    "number": "427",
+    "badge": "764153",
+    "name": "QUINTANAR SEVILLA RICARDO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "764153"
+  },
+  {
+    "number": "428",
+    "badge": "1168211",
+    "name": "QUINTOS GOMEZ CAROLINA",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1168211"
+  },
+  {
+    "number": "350",
+    "badge": "65319",
+    "name": "RAMIREZ AREVALO JAIME DANIEL",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "65319"
+  },
+  {
+    "number": "351",
+    "badge": "60980",
+    "name": "RAMIREZ CAMPOS LESLIE ABIGAIL",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "60980"
+  },
+  {
+    "number": "352",
+    "badge": "42137",
+    "name": "RAMIREZ CARPIO FERNANDO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "42137"
+  },
+  {
+    "number": "353",
+    "badge": "33486",
+    "name": "RAMIREZ CARVAJAL ELOY",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "33486"
+  },
+  {
+    "number": "429",
+    "badge": "1168222",
+    "name": "RAMIREZ CASTAÑEDA GLORIA RUBY",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1168222"
+  },
+  {
+    "number": "430",
+    "badge": "1168214",
+    "name": "RAMIREZ CERECEDO LUIS MIGUEL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1168214"
+  },
+  {
+    "number": "354",
+    "badge": "927056",
+    "name": "RAMIREZ CRUZ EVELIN",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "927056"
+  },
+  {
+    "number": "355",
+    "badge": "869846",
+    "name": "RAMIREZ DOMINGUEZ JORGE LUIS",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "869846"
+  },
+  {
+    "number": "431",
+    "badge": "1151366",
+    "name": "RAMIREZ ESPINOSA BERENICE",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151366"
+  },
+  {
+    "number": "432",
+    "badge": "939812",
+    "name": "RAMIREZ GARCIA YESSICA LESLI",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "939812"
+  },
+  {
+    "number": "433",
+    "badge": "1151327",
+    "name": "RAMIREZ JIMENEZ MARIA DEL CARMEN",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151327"
+  },
+  {
+    "number": "434",
+    "badge": "1151329",
+    "name": "RAMIREZ LAZCANO HEINAR",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151329"
+  },
+  {
+    "number": "356",
+    "badge": "46661",
+    "name": "RAMIREZ LOPEZ EDGAR JAVIER",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "46661"
+  },
+  {
+    "number": "435",
+    "badge": "1022263",
+    "name": "RAMIREZ MARTINEZ RAUL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1022263"
+  },
+  {
+    "number": "357",
+    "badge": "40110",
+    "name": "RAMIREZ MARTINEZ SERGIO DANIEL",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "40110"
+  },
+  {
+    "number": "436",
+    "badge": "58101",
+    "name": "RAMIREZ SALAZAR ANDREA",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "58101"
+  },
+  {
+    "number": "359",
+    "badge": "44353",
+    "name": "RAMIREZ VALENCIA RAUL SINUHE",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "44353"
+  },
+  {
+    "number": "437",
+    "badge": "1168238",
+    "name": "RAMIREZ VAZQUEZ JANETH",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1168238"
+  },
+  {
+    "number": "438",
+    "badge": "1156219",
+    "name": "RAMOS ALVAREZ ANA LAURA",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1156219"
+  },
+  {
+    "number": "360",
+    "badge": "66825",
+    "name": "RAMOS COTA LUIS MANUEL",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "66825"
+  },
+  {
+    "number": "439",
+    "badge": "919074",
+    "name": "RAMOS HERNANDEZ DAMIAN",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "919074"
+  },
+  {
+    "number": "361",
+    "badge": "905183",
+    "name": "RAMOS TORRES MARIA ALEJANDRA",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "905183"
+  },
+  {
+    "number": "348",
+    "badge": "1031057",
+    "name": "RAMÍREZ ALEJO JONATHAN",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "1031057"
+  },
+  {
+    "number": "349",
+    "badge": "37461",
+    "name": "RAMÍREZ ALVARADO JOSÉ ALEJANDRO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "37461"
+  },
+  {
+    "number": "358",
+    "badge": "934963",
+    "name": "RAMÍREZ ORTIZ ANAYELI",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "934963"
+  },
+  {
+    "number": "440",
+    "badge": "1159404",
+    "name": "RANGEL PEÑALOZA ISMAEL ARMANDO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1159404"
+  },
+  {
+    "number": "362",
+    "badge": "37042",
+    "name": "REBOLLO CAMACHO ROBERTO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "37042"
+  },
+  {
+    "number": "441",
+    "badge": "860598",
+    "name": "REGALADO GONZALEZ JUAN CARLOS",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "860598"
+  },
+  {
+    "number": "442",
+    "badge": "869857",
+    "name": "REMIGIO MARTINEZ ALONSO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "869857"
+  },
+  {
+    "number": "363",
+    "badge": "52486",
+    "name": "REMIGIO PEÑA SANDRA",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "52486"
+  },
+  {
+    "number": "364",
+    "badge": "49318",
+    "name": "RENTERIA GODINEZ MARY CARMEN",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "49318"
+  },
+  {
+    "number": "443",
+    "badge": "1151339",
+    "name": "RESENDIZ CITLALI ANAHI",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151339"
+  },
+  {
+    "number": "444",
+    "badge": "1151373",
+    "name": "RESENDIZ RAMOS JUAN JESUS",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151373"
+  },
+  {
+    "number": "365",
+    "badge": "62942",
+    "name": "RESENDIZ RIVAS BRENDA ANAHI",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "62942"
+  },
+  {
+    "number": "445",
+    "badge": "1090220",
+    "name": "REYES AGUILAR LAURA NAYELI",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1090220"
+  },
+  {
+    "number": "367",
+    "badge": "42323",
+    "name": "REYES CORTEZ FLORENCIO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "42323"
+  },
+  {
+    "number": "446",
+    "badge": "1151346",
+    "name": "REYES ELIZALDE BRENDA ELIZABETH",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151346"
+  },
+  {
+    "number": "368",
+    "badge": "10267",
+    "name": "REYES FERNANDEZ LORENZO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "10267"
+  },
+  {
+    "number": "447",
+    "badge": "1156234",
+    "name": "REYES GAONA KEILA ISABEL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1156234"
+  },
+  {
+    "number": "369",
+    "badge": "39086",
+    "name": "REYES GUERRERO ESTEBAN",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "39086"
+  },
+  {
+    "number": "370",
+    "badge": "30057",
+    "name": "REYES HERNANDEZ ADAN",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "30057"
+  },
+  {
+    "number": "448",
+    "badge": "1151136",
+    "name": "REYES LOPEZ JONATHAN",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151136"
+  },
+  {
+    "number": "449",
+    "badge": "755464",
+    "name": "REYES LOPEZ JOSE MAURICIO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "755464"
+  },
+  {
+    "number": "450",
+    "badge": "1090389",
+    "name": "REYES RIVERA ELIANA ILSE",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1090389"
+  },
+  {
+    "number": "371",
+    "badge": "837739",
+    "name": "REYES RIVERA MARÍA JAZMÍN",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "837739"
+  },
+  {
+    "number": "451",
+    "badge": "20698",
+    "name": "REYES ROJAS FELIPE",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "20698"
+  },
+  {
+    "number": "366",
+    "badge": "35699",
+    "name": "REYES SOTO REYNALDO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "35699"
+  },
+  {
+    "number": "452",
+    "badge": "44721",
+    "name": "REYES VELAZQUEZ LORENZO ROGELIO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "44721"
+  },
+  {
+    "number": "453",
+    "badge": "44719",
+    "name": "REYES VELAZQUEZ RICARDO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "44719"
+  },
+  {
+    "number": "372",
+    "badge": "29200",
+    "name": "REYES ZARAGOZA ALFONSO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "29200"
+  },
+  {
+    "number": "373",
+    "badge": "34794",
+    "name": "REYNADA ESCOBAR ALEJANDRO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "34794"
+  },
+  {
+    "number": "374",
+    "badge": "20824",
+    "name": "REYNADA ESCOBAR RAUL",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "20824"
+  },
+  {
+    "number": "454",
+    "badge": "845416",
+    "name": "REZA MARTINEZ JUAN CARLOS",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "845416"
+  },
+  {
+    "number": "455",
+    "badge": "1151153",
+    "name": "RINCON LOPEZ JESSICA ISABEL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151153"
+  },
+  {
+    "number": "456",
+    "badge": "1007473",
+    "name": "RIOS ALFARO ADAN MICHEL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1007473"
+  },
+  {
+    "number": "375",
+    "badge": "52620",
+    "name": "RIOS CORNEJO AARON EMMANUEL",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "52620"
+  },
+  {
+    "number": "376",
+    "badge": "46628",
+    "name": "RIOS PEREZ FERNANDO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "46628"
+  },
+  {
+    "number": "377",
+    "badge": "47185",
+    "name": "RIOS SILVA CAROLINA PILAR",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "47185"
+  },
+  {
+    "number": "457",
+    "badge": "1128118",
+    "name": "RIVAS BARRANCO LUIS ALEJANDRO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1128118"
+  },
+  {
+    "number": "378",
+    "badge": "26565",
+    "name": "RIVAS MURILLO FERNANDO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "26565"
+  },
+  {
+    "number": "458",
+    "badge": "905197",
+    "name": "RIVERA AGUILAR FRANCISCO JAVIER",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "905197"
+  },
+  {
+    "number": "459",
+    "badge": "38874",
+    "name": "RIVERA GARCIA ERNESTO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "38874"
+  },
+  {
+    "number": "379",
+    "badge": "43411",
+    "name": "RIVERA HERNANDEZ EVA PATRICIA",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "43411"
+  },
+  {
+    "number": "380",
+    "badge": "850893",
+    "name": "RIVERA JUAREZ MARIBEL",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "850893"
+  },
+  {
+    "number": "460",
+    "badge": "34858",
+    "name": "RIVERA MARTINEZ JORGE",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "34858"
+  },
+  {
+    "number": "381",
+    "badge": "16383",
+    "name": "RIVERA ORTEGA JOSE ENRIQUE",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "16383"
+  },
+  {
+    "number": "382",
+    "badge": "44053",
+    "name": "ROBLES CASTILLO ADRIANA",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "44053"
+  },
+  {
+    "number": "461",
+    "badge": "986664",
+    "name": "RODRIGUES MANUEL LUIS",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "986664"
+  },
+  {
+    "number": "462",
+    "badge": "1168388",
+    "name": "RODRIGUEZ BELTRAN DANIELA",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1168388"
+  },
+  {
+    "number": "463",
+    "badge": "754403",
+    "name": "RODRIGUEZ BOIZO GERARDO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "754403"
+  },
+  {
+    "number": "464",
+    "badge": "830735",
+    "name": "RODRIGUEZ CRUZ RICARDO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "830735"
+  },
+  {
+    "number": "384",
+    "badge": "37701",
+    "name": "RODRIGUEZ DE LA CRUZ ALFREDO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "37701"
+  },
+  {
+    "number": "386",
+    "badge": "64447",
+    "name": "RODRIGUEZ GONZALEZ ALESSANDRO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "64447"
+  },
+  {
+    "number": "465",
+    "badge": "1151236",
+    "name": "RODRIGUEZ MALDONADO DIANA SHANTAL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151236"
+  },
+  {
+    "number": "466",
+    "badge": "1127636",
+    "name": "RODRIGUEZ MARTINEZ FERNANDO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1127636"
+  },
+  {
+    "number": "467",
+    "badge": "38341",
+    "name": "RODRIGUEZ MARTINEZ LEONEL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "38341"
+  },
+  {
+    "number": "468",
+    "badge": "1163087",
+    "name": "RODRIGUEZ MORALES DAVID",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1163087"
+  },
+  {
+    "number": "469",
+    "badge": "1168235",
+    "name": "RODRIGUEZ PACHECO WILLIAN DAN",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1168235"
+  },
+  {
+    "number": "470",
+    "badge": "1151240",
+    "name": "RODRIGUEZ TREJO ERICK ESAU",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151240"
+  },
+  {
+    "number": "471",
+    "badge": "1151245",
+    "name": "RODRIGUEZ VALDEZ MONICA",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151245"
+  },
+  {
+    "number": "383",
+    "badge": "914215",
+    "name": "RODRÍGUEZ BRIONES ERICA",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "914215"
+  },
+  {
+    "number": "385",
+    "badge": "36283",
+    "name": "RODRÍGUEZ DE LA CRUZ JUAN",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "36283"
+  },
+  {
+    "number": "387",
+    "badge": "61549",
+    "name": "RODRÍGUEZ TOLENTINO IRVIN BENJAMIN",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "61549"
+  },
+  {
+    "number": "388",
+    "badge": "16744",
+    "name": "ROJAS CRUZ RAUL",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "16744"
+  },
+  {
+    "number": "472",
+    "badge": "1163093",
+    "name": "ROJAS HERNANDEZ KARINA",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1163093"
+  },
+  {
+    "number": "473",
+    "badge": "830024",
+    "name": "ROJAS JUAREZ JESUS",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "830024"
+  },
+  {
+    "number": "474",
+    "badge": "1151252",
+    "name": "ROJAS LOPEZ ORLANDO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151252"
+  },
+  {
+    "number": "475",
+    "badge": "1151258",
+    "name": "ROJAS NACAR FABIAN",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151258"
+  },
+  {
+    "number": "476",
+    "badge": "1163477",
+    "name": "ROJAS PALMA MARIO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1163477"
+  },
+  {
+    "number": "389",
+    "badge": "45205",
+    "name": "ROJAS RUIZ JESUS",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "45205"
+  },
+  {
+    "number": "477",
+    "badge": "1151266",
+    "name": "ROJAS VARGAS ERICK ALBERTO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151266"
+  },
+  {
+    "number": "478",
+    "badge": "10736",
+    "name": "ROJO CABALLERO MARIO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "10736"
+  },
+  {
+    "number": "479",
+    "badge": "1151272",
+    "name": "ROMERO HERNANDEZ SARA",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151272"
+  },
+  {
+    "number": "480",
+    "badge": "1151278",
+    "name": "ROMERO MANUEL KARLA ITZEL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151278"
+  },
+  {
+    "number": "481",
+    "badge": "1168250",
+    "name": "ROMO GUERRERO JOSE DE JESUS",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1168250"
+  },
+  {
+    "number": "390",
+    "badge": "42258",
+    "name": "ROSAJEL GOMEZ JOSE CARLOS",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "42258"
+  },
+  {
+    "number": "482",
+    "badge": "1163431",
+    "name": "ROSALES CURIEL OSCAR",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1163431"
+  },
+  {
+    "number": "483",
+    "badge": "888672",
+    "name": "ROSALES MORA GUSTAVO EDUARDO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "888672"
+  },
+  {
+    "number": "391",
+    "badge": "46627",
+    "name": "ROSAS GIL JORGE",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "46627"
+  },
+  {
+    "number": "392",
+    "badge": "52724",
+    "name": "ROSAS REYNA JONATHAN ARMANDO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "52724"
+  },
+  {
+    "number": "393",
+    "badge": "905242",
+    "name": "RUBIO CORONA LEYDI DIANA",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "905242"
+  },
+  {
+    "number": "484",
+    "badge": "1128179",
+    "name": "RUEDA ACUÑA EDUARDO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1128179"
+  },
+  {
+    "number": "485",
+    "badge": "1151367",
+    "name": "RUIZ ESCAMILLA MIGUEL ANGEL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151367"
+  },
+  {
+    "number": "486",
+    "badge": "1168254",
+    "name": "RUIZ LOPEZ GUADALUPE",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1168254"
+  },
+  {
+    "number": "487",
+    "badge": "1126724",
+    "name": "RUIZ MADRIGAL DANIEL EMILIO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1126724"
+  },
+  {
+    "number": "488",
+    "badge": "1127642",
+    "name": "RUIZ OCADIO HUGO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1127642"
+  },
+  {
+    "number": "394",
+    "badge": "55898",
+    "name": "SALAZAR LUCIANO KARLA MELISSA",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "55898"
+  },
+  {
+    "number": "395",
+    "badge": "44116",
+    "name": "SALCEDO PEÑA JOSÉ JUAN",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "44116"
+  },
+  {
+    "number": "396",
+    "badge": "52433",
+    "name": "SALGADO HERNANDEZ EDWIN JONATHAN",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "52433"
+  },
+  {
+    "number": "489",
+    "badge": "1151322",
+    "name": "SANCHEZ ARANA KAREN",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151322"
+  },
+  {
+    "number": "490",
+    "badge": "1128225",
+    "name": "SANCHEZ DE TAGLE PONCE JONATHAN",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1128225"
+  },
+  {
+    "number": "398",
+    "badge": "26415",
+    "name": "SANCHEZ GALAN JOSE LUIS",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "26415"
+  },
+  {
+    "number": "491",
+    "badge": "1034527",
+    "name": "SANCHEZ GONZALEZ JUAN",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1034527"
+  },
+  {
+    "number": "492",
+    "badge": "829492",
+    "name": "SANCHEZ JUAREZ LEON",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "829492"
+  },
+  {
+    "number": "400",
+    "badge": "55573",
+    "name": "SANCHEZ MAÑON NORMA ANGELICA",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "55573"
+  },
+  {
+    "number": "493",
+    "badge": "1163448",
+    "name": "SANCHEZ MONTALBAN ALONDRA",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1163448"
+  },
+  {
+    "number": "401",
+    "badge": "17043",
+    "name": "SANCHEZ PINEDA ISABEL DORIS",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "17043"
+  },
+  {
+    "number": "494",
+    "badge": "1168259",
+    "name": "SANCHEZ RUBIO ISIS MAGNOLIA",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1168259"
+  },
+  {
+    "number": "402",
+    "badge": "15300",
+    "name": "SANCHEZ SANCHEZ ISAAC",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "15300"
+  },
+  {
+    "number": "495",
+    "badge": "952470",
+    "name": "SANCHEZ SANCHEZ LILIAN",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "952470"
+  },
+  {
+    "number": "496",
+    "badge": "910455",
+    "name": "SANCHEZ SIERRA BRENDA ESTEFANY",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "910455"
+  },
+  {
+    "number": "497",
+    "badge": "933911",
+    "name": "SANCHEZ VALDERRABANO JESUS RAMON",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "933911"
+  },
+  {
+    "number": "498",
+    "badge": "1168269",
+    "name": "SANCHEZ VALENZUELA YEMI",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1168269"
+  },
+  {
+    "number": "499",
+    "badge": "1036460",
+    "name": "SANDOVAL CRUZ JOSE ANTONIO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1036460"
+  },
+  {
+    "number": "500",
+    "badge": "764106",
+    "name": "SANDOVAL GARIBAY EDGAR",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "764106"
+  },
+  {
+    "number": "403",
+    "badge": "815472",
+    "name": "SANDOVAL TORRES JOSÉ ALBERTO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "815472"
+  },
+  {
+    "number": "404",
+    "badge": "45250",
+    "name": "SANJUAN MOGICA EFRAIN",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "45250"
+  },
+  {
+    "number": "405",
+    "badge": "42513",
+    "name": "SANTES RAMIREZ JUAN",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "42513"
+  },
+  {
+    "number": "501",
+    "badge": "915517",
+    "name": "SANTIAGO DE LA CRUZ JOSE MANUEL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "915517"
+  },
+  {
+    "number": "502",
+    "badge": "1097474",
+    "name": "SANTIAGO DIAZ XOCHITL ANETTE",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1097474"
+  },
+  {
+    "number": "503",
+    "badge": "939855",
+    "name": "SANTIAGO GUTIERREZ ERIC",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "939855"
+  },
+  {
+    "number": "504",
+    "badge": "763588",
+    "name": "SANTIAGO RAMIREZ MILTON",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "763588"
+  },
+  {
+    "number": "505",
+    "badge": "848557",
+    "name": "SANTIAGO RAMOS PATRICIA",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "848557"
+  },
+  {
+    "number": "506",
+    "badge": "38606",
+    "name": "SANTILLAN RAMIREZ ISRAEL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "38606"
+  },
+  {
+    "number": "406",
+    "badge": "19417",
+    "name": "SANTOS MIGUEL JOSUE",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "19417"
+  },
+  {
+    "number": "407",
+    "badge": "30260",
+    "name": "SANTOS NICOLAS JAVIER",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "30260"
+  },
+  {
+    "number": "507",
+    "badge": "1168400",
+    "name": "SARMIENTO REYES VERONICA",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1168400"
+  },
+  {
+    "number": "508",
+    "badge": "1163473",
+    "name": "SERRALDE CONTRERAS MARIA FERNANDA",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1163473"
+  },
+  {
+    "number": "509",
+    "badge": "919144",
+    "name": "SERRALDE ENRIQUEZ RODRIGO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "919144"
+  },
+  {
+    "number": "510",
+    "badge": "1168402",
+    "name": "SERRANO CASTILLO EDGAR",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1168402"
+  },
+  {
+    "number": "511",
+    "badge": "57549",
+    "name": "SERRANO SANTIAGO ALEJO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "57549"
+  },
+  {
+    "number": "408",
+    "badge": "21295",
+    "name": "SIERRA SANTANA ARTURO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "21295"
+  },
+  {
+    "number": "409",
+    "badge": "32702",
+    "name": "SINDO ALBERTO JULIANA",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "32702"
+  },
+  {
+    "number": "410",
+    "badge": "23086",
+    "name": "SOLANO GUZMAN ALEJANDRO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "23086"
+  },
+  {
+    "number": "512",
+    "badge": "927132",
+    "name": "SOLANO RODRIGUEZ REMEDIOS ESMERALDA",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "927132"
+  },
+  {
+    "number": "411",
+    "badge": "28360",
+    "name": "SORCIA CONTRERAS IGNACIO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "28360"
+  },
+  {
+    "number": "513",
+    "badge": "889305",
+    "name": "SORIANO LANDA ARMANDO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "889305"
+  },
+  {
+    "number": "514",
+    "badge": "837734",
+    "name": "SOTELO MORALES GUILLERMO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "837734"
+  },
+  {
+    "number": "412",
+    "badge": "35658",
+    "name": "SOTELO REVILLA EDGAR",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "35658"
+  },
+  {
+    "number": "413",
+    "badge": "11837",
+    "name": "SOTO GIL BENIGNO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "11837"
+  },
+  {
+    "number": "515",
+    "badge": "836364",
+    "name": "SOTO GUTIERREZ VICTOR MANUEL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "836364"
+  },
+  {
+    "number": "516",
+    "badge": "1168430",
+    "name": "SOTO MARTINEZ CARLOS ALBERTO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1168430"
+  },
+  {
+    "number": "414",
+    "badge": "41513",
+    "name": "SUAREZ MARQUEZ JOSUE SAMUEL",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "41513"
+  },
+  {
+    "number": "517",
+    "badge": "1168432",
+    "name": "SUAREZ MEZA ANDRES",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1168432"
+  },
+  {
+    "number": "518",
+    "badge": "917361",
+    "name": "SUAREZ VELAZQUEZ GERARDO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "917361"
+  },
+  {
+    "number": "397",
+    "badge": "19454",
+    "name": "SÁNCHEZ BUSTAMANTE MARCO ANTONIO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "19454"
+  },
+  {
+    "number": "399",
+    "badge": "53800",
+    "name": "SÁNCHEZ HERNÁNDEZ LUIS IVÁN",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "53800"
+  },
+  {
+    "number": "415",
+    "badge": "11884",
+    "name": "TABLAS COBATZIN MARCOS",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "11884"
+  },
+  {
+    "number": "519",
+    "badge": "1051729",
+    "name": "TABOADA SANCHEZ JORGE LUIS",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1051729"
+  },
+  {
+    "number": "520",
+    "badge": "1168435",
+    "name": "TAMAYO ALVAREZ ABRAHAM ISRAEL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1168435"
+  },
+  {
+    "number": "416",
+    "badge": "39997",
+    "name": "TEJEDA DE LA CRUZ HECTOR",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "39997"
+  },
+  {
+    "number": "521",
+    "badge": "1151206",
+    "name": "TELLEZ LEYVA CHRISTIAN JESUS",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151206"
+  },
+  {
+    "number": "522",
+    "badge": "1163481",
+    "name": "TELLEZ MIRANDA LUIS FERNANDO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1163481"
+  },
+  {
+    "number": "523",
+    "badge": "915538",
+    "name": "TEODORO MALDONADO QUINTIL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "915538"
+  },
+  {
+    "number": "524",
+    "badge": "1168439",
+    "name": "TEPANECATL LOPEZ MAYRA",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1168439"
+  },
+  {
+    "number": "525",
+    "badge": "1168442",
+    "name": "TERAN ARIAS SUSANA GABRIELA",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1168442"
+  },
+  {
+    "number": "526",
+    "badge": "844816",
+    "name": "TOLENTINO AGUILAR JUAN CARLOS",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "844816"
+  },
+  {
+    "number": "418",
+    "badge": "36737",
+    "name": "TORRES AYALA JESSICA MARGARITA",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "36737"
+  },
+  {
+    "number": "419",
+    "badge": "36130",
+    "name": "TORRES CABRERA PORFIRIO ISRAEL",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "36130"
+  },
+  {
+    "number": "420",
+    "badge": "44403",
+    "name": "TORRES JIMENEZ YESENIA",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "44403"
+  },
+  {
+    "number": "421",
+    "badge": "47431",
+    "name": "TORRES JUAREZ SANDRA",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "47431"
+  },
+  {
+    "number": "422",
+    "badge": "14524",
+    "name": "TORRES RESENDIS FERNANDO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "14524"
+  },
+  {
+    "number": "423",
+    "badge": "55621",
+    "name": "TORRES ROSETE DIANA KAREN",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "55621"
+  },
+  {
+    "number": "527",
+    "badge": "848409",
+    "name": "TORRES VILLAFAÑA BLANCA MARGARITA",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "848409"
+  },
+  {
+    "number": "417",
+    "badge": "39482",
+    "name": "TORRES ÁLVAREZ ISAAC ISRAEL",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "39482"
+  },
+  {
+    "number": "424",
+    "badge": "1106678",
+    "name": "TOVAR FUENTES EDWIN ASAEL",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "1106678"
+  },
+  {
+    "number": "425",
+    "badge": "50541",
+    "name": "TREJO MARTINEZ JUAN CARLOS",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "50541"
+  },
+  {
+    "number": "528",
+    "badge": "761774",
+    "name": "UBALDO OLAYA ALEJANDRO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "761774"
+  },
+  {
+    "number": "529",
+    "badge": "919126",
+    "name": "URIBE MENDEZ LUIS ALBERTO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "919126"
+  },
+  {
+    "number": "530",
+    "badge": "33480",
+    "name": "VALDEZ GONZALEZ MIGUEL ANGEL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "33480"
+  },
+  {
+    "number": "426",
+    "badge": "22348",
+    "name": "VALDEZ RAMIREZ FAUSTO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "22348"
+  },
+  {
+    "number": "427",
+    "badge": "933904",
+    "name": "VALENCIA ACEVEDO MAYRA GABRIELA",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "933904"
+  },
+  {
+    "number": "531",
+    "badge": "755188",
+    "name": "VALENCIA DIAZ PEDRO GERARDO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "755188"
+  },
+  {
+    "number": "428",
+    "badge": "16712",
+    "name": "VALENCIA MALPICA BERNABE",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "16712"
+  },
+  {
+    "number": "429",
+    "badge": "42626",
+    "name": "VALENCIA VAZQUEZ GUILLERMO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "42626"
+  },
+  {
+    "number": "430",
+    "badge": "64867",
+    "name": "VALENZUELA ALMADA IZCOATL",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "64867"
+  },
+  {
+    "number": "431",
+    "badge": "40681",
+    "name": "VALIENTE HURTADO JAVIER",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "40681"
+  },
+  {
+    "number": "432",
+    "badge": "37559",
+    "name": "VALLE JIMENEZ ROSA ISELA",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "37559"
+  },
+  {
+    "number": "433",
+    "badge": "837747",
+    "name": "VARILLAS BERNAL FABIOLA MIRNA",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "837747"
+  },
+  {
+    "number": "434",
+    "badge": "42502",
+    "name": "VASQUEZ GARCIA NATIVIDAD",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "42502"
+  },
+  {
+    "number": "435",
+    "badge": "15385",
+    "name": "VAZQUEZ ARVIZU LYDIA",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "15385"
+  },
+  {
+    "number": "532",
+    "badge": "1103163",
+    "name": "VAZQUEZ CARBAJAL AZUCENA",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1103163"
+  },
+  {
+    "number": "436",
+    "badge": "27096",
+    "name": "VAZQUEZ GONZALEZ CESAR",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "27096"
+  },
+  {
+    "number": "533",
+    "badge": "1151242",
+    "name": "VAZQUEZ HERNANDEZ ANAYELI",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151242"
+  },
+  {
+    "number": "534",
+    "badge": "1168428",
+    "name": "VAZQUEZ JARILLO JANETH VIRIDIANA",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1168428"
+  },
+  {
+    "number": "438",
+    "badge": "28305",
+    "name": "VAZQUEZ ROMERO ANGEL",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "28305"
+  },
+  {
+    "number": "439",
+    "badge": "39043",
+    "name": "VAZQUEZ SERRANO ANGELICA",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "39043"
+  },
+  {
+    "number": "440",
+    "badge": "17741",
+    "name": "VAZQUEZ TEPETOLO MIGUEL RODRIGO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "17741"
+  },
+  {
+    "number": "535",
+    "badge": "1007460",
+    "name": "VEGA LIZAOLA JORGE VICTOR",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1007460"
+  },
+  {
+    "number": "536",
+    "badge": "1151253",
+    "name": "VELA DE LA SANCHA ADRIANA ELIZABETH",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151253"
+  },
+  {
+    "number": "441",
+    "badge": "1031129",
+    "name": "VELASCO ORTIZ ROBERTO CARLOS",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "1031129"
+  },
+  {
+    "number": "537",
+    "badge": "928115",
+    "name": "VELAZQUEZ GONZALEZ ARTURO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "928115"
+  },
+  {
+    "number": "442",
+    "badge": "17913",
+    "name": "VELAZQUEZ OLGUIN MARIA DEL CARMEN",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "17913"
+  },
+  {
+    "number": "443",
+    "badge": "30855",
+    "name": "VELAZQUEZ RIVERA PABLO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "30855"
+  },
+  {
+    "number": "538",
+    "badge": "1163445",
+    "name": "VELAZQUEZ SALAS CESAR EDUARDO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1163445"
+  },
+  {
+    "number": "444",
+    "badge": "38158",
+    "name": "VERA HERNANDEZ BENIGNO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "38158"
+  },
+  {
+    "number": "445",
+    "badge": "33162",
+    "name": "VERA HERNANDEZ MARTIN",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "33162"
+  },
+  {
+    "number": "539",
+    "badge": "55948",
+    "name": "VERDUZCO VARGAS NOEL JOSS",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "55948"
+  },
+  {
+    "number": "540",
+    "badge": "1151267",
+    "name": "VERGARA GARCIA BRAYAN RICARDO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151267"
+  },
+  {
+    "number": "541",
+    "badge": "1157318",
+    "name": "VERGARA YAÑEZ JUAN DANIEL",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1157318"
+  },
+  {
+    "number": "542",
+    "badge": "61037",
+    "name": "VICENCIO GARCIA JORGE AUGUSTO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "61037"
+  },
+  {
+    "number": "543",
+    "badge": "903619",
+    "name": "VICTORIA BIRU ALEJANDRO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "903619"
+  },
+  {
+    "number": "544",
+    "badge": "843781",
+    "name": "VICTORIANO SANTANA ERIC JAVIER",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "843781"
+  },
+  {
+    "number": "446",
+    "badge": "28537",
+    "name": "VILCHIS DELGADILLO LUCAS ANTONIO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "28537"
+  },
+  {
+    "number": "447",
+    "badge": "23359",
+    "name": "VILLA CEDILLO JUAN CARLOS",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "23359"
+  },
+  {
+    "number": "545",
+    "badge": "905345",
+    "name": "VILLAGRANA RAMIREZ ABRAHAM DE JESUS",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "905345"
+  },
+  {
+    "number": "448",
+    "badge": "40582",
+    "name": "VILLANUEVA CORRALES HÉCTOR ALFONSO",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "40582"
+  },
+  {
+    "number": "546",
+    "badge": "1156908",
+    "name": "VILLANUEVA VALENCIA SEBASTIAN",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1156908"
+  },
+  {
+    "number": "449",
+    "badge": "54499",
+    "name": "VILLEGAS MUÑOZ MARIANA",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "54499"
+  },
+  {
+    "number": "547",
+    "badge": "1168445",
+    "name": "VITE ANGELES JORDAN ALBERTO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1168445"
+  },
+  {
+    "number": "437",
+    "badge": "45193",
+    "name": "VÁZQUEZ HERNÁNDEZ IVÁN ISRAEL",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "45193"
+  },
+  {
+    "number": "548",
+    "badge": "885312",
+    "name": "YAÑEZ GOMEZ VANESSA",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "885312"
+  },
+  {
+    "number": "450",
+    "badge": "33722",
+    "name": "YAÑEZ MENDIETA EDER JESUS",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "33722"
+  },
+  {
+    "number": "451",
+    "badge": "907101",
+    "name": "YEDRA SANTIAGO SILVIA LAURA",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "907101"
+  },
+  {
+    "number": "549",
+    "badge": "1151298",
+    "name": "ZAVALA MATEHUALA MARLENE",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1151298"
+  },
+  {
+    "number": "550",
+    "badge": "1168287",
+    "name": "ZAVALA TOVAR KARLA PAOLA",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "1168287"
+  },
+  {
+    "number": "551",
+    "badge": "730249",
+    "name": "ZENIL OJEDA RICARDO",
+    "authorizationType": "Equipo Electrónico Portátil",
+    "slug": "730249"
+  },
+  {
+    "number": "452",
+    "badge": "65317",
+    "name": "ZEPEDA GONZALEZ SERGIO EMMANUEL",
+    "authorizationType": "Sistema Tecnológico",
+    "slug": "65317"
+  }
+]
